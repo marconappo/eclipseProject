@@ -1,0 +1,233 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IQib6odwSmd7KLosX3etaBpnk2Aro2jVuGG3163gOKx2wvnu3cEzrY5s8n7yITNh
+ UC1zl0LyCr4KT4Ne9r+XXQ==
+
+<SEC-DOCUMENT>0000919574-04-003278.txt : 20041115
+<SEC-HEADER>0000919574-04-003278.hdr.sgml : 20041115
+<ACCEPTANCE-DATETIME>20041115122730
+ACCESSION NUMBER:		0000919574-04-003278
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040930
+FILED AS OF DATE:		20041115
+DATE AS OF CHANGE:		20041115
+EFFECTIVENESS DATE:		20041115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		041143111
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d525664_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+        Report for the Calendar Year or Quarter Ended September 30, 2004
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, L.L.C.
+
+Address:  126 East 56th Street
+          New York, NY 10022
+
+
+13F File Number: 28-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/ Phillipe Laffont               New York, NY                  11/15/04
+- -----------------------     --------------------------    ----------------------
+     [Signature]                  [City, State]                   [Date]
+
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[X]  13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+     are reported in this report).
+
+[_]  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting managers(s).)
+
+[_]  13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+
+<PAGE>
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       3
+
+Form 13F Information Table Entry Total:  65
+
+Form 13F Information Table Value Total: $425,376
+                                       (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.        Form 13F File Number      Name
+
+1.         028-10522                 Coatue Capital, L.L.C.
+2.         028-10553                 Coatue Offshore Fund, Ltd.
+3.         028-10554                 Coatue Qualified Partners, L.P.
+- ----       -------------------       -------------------------------
+
+
+
+
+<PAGE>
+
+<TABLE>
+
+                                                                FORM 13F INFORMATION TABLE
+<CAPTION>
+
+COLUMN 1                        COLUMN  2        COLUMN 3   COLUMN 4     COLUMN 5         COLUMN 6    COLUMN 7       COLUMN 8
+
+                                TITLE OF                     VALUE   SHRS OR   SH/ PUT/   INVESTMENT   OTHER      VOTING AUTHORITY
+NAME OF ISSUER                  CLASS           CUSIP       (X$1000) PRN AMT   PRN CALL   DISCRETION   MGRS   SOLE  SHARED     NONE
+- --------------                  -----           -----       -------- -------   --- ----   ----------   ----   ----  ------     ----
+<S>                             <C>             <C>         <C>      <C>       <C> <C>    <C>          <C>    <C>   <C>        <C>
+ACE CASH EXPRESS INC            CMN             004403101   13,020     500,000 SH         SHARED       1,2,3  0       500,000  0
+ADOBE SYSTEMS                   CMN             00724F101   12,535     253,379 SH         SHARED       1,2,3  0       253,379  0
+ADVANCED MICRO DEVICES INC      CMN             007903107    8,125     625,000 SH         SHARED       1,2,3  0       625,000  0
+AMDOCS LTD                      ORDINARY        G02602103   23,425   1,073,060 SH         SHARED       1,2,3  0     1,073,060  0
+AMERICA MOVIL SA DE CV          SPONSORED ADR   02364W105    4,955     126,950 SH         SHARED       1,2,3  0       126,950  0
+AMERICAN TOWER CORP             CMN             029912201   19,238   1,253,272 SH         SHARED       1,2,3  0     1,253,272  0
+ARIBA INC                       CMN             04033V203      445      47,653 SH         SHARED       1,2,3  0        47,653  0
+AT&T CORP                       CMN             001957505    4,100     286,294 SH         SHARED       1,2,3  0       286,294  0
+AUTHENTIDATE HOLDING CORP       CMN             052666104    1,854     305,900 SH         SHARED       1,2,3  0       305,900  0
+AVANEX CORP                     CMN             05348W109      147      71,998 SH         SHARED       1,2,3  0        71,998  0
+BOOKS A MILLION INC             CMN             098570104       88      11,000 SH         SHARED       1,2,3  0        11,000  0
+BOSTON COMMUNICATIONS GROUP     CMN             100582105    6,173     703,887 SH         SHARED       1,2,3  0       703,887  0
+CAL-MAINE FOODS INC             CMN             128030202    3,291     300,000 SH         SHARED       1,2,3  0       300,000  0
+CAREER EDUCATION CORP           CMN             141665109   12,719     447,366 SH         SHARED       1,2,3  0       447,366  0
+CENTILLIUM COMMUNICATIONS INC   CMN             152319109      164      68,822 SH         SHARED       1,2,3  0        68,822  0
+CHINADOTCOM CORP                CLASS A         G2108N109    1,142     229,236 SH         SHARED       1,2,3  0       229,236  0
+COSTAR GROUP INC                CMN             22160N109    1,636      33,261 SH         SHARED       1,2,3  0        33,261  0
+CREE INC                        CMN             225447101    9,076     297,583 SH         SHARED       1,2,3  0       297,583  0
+CROWN CASTLE INTL CORP          CMN             228227104   17,355   1,166,316 SH         SHARED       1,2,3  0     1,166,316  0
+CTRIP.COM INTERNATIONAL         SPONSORED ADR   22943F100   13,034     375,628 SH         SHARED       1,2,3  0       375,628  0
+DHB INDUSTRIES INC              CMN             23321E103    2,414     170,000 SH         SHARED       1,2,3  0       170,000  0
+DRUGSTORE.COM INC               CMN             262241102      618     180,669 SH         SHARED       1,2,3  0       180,669  0
+DSL.NET INC                     CMN             262506108       16      76,233 SH         SHARED       1,2,3  0        76,233  0
+DUN & BRADSTREET CORP DEL       CMN             26483E100   10,452     178,061 SH         SHARED       1,2,3  0       178,061  0
+ELECTRONIC DATA SYSTEM CORP     NEW             285661104       62       3,200 SH         SHARED       1,2,3  0         3,200  0
+FALCONSTOR SOFTWARE INC         CMN             306137100      326      43,700 SH         SHARED       1,2,3  0        43,700  0
+GLOBAL CROSSING LTD.            CMN             G3921A175      991      60,000 SH         SHARED       1,2,3  0        60,000  0
+GLOBAL SIGNAL INC.              CMN             37944Q103    9,115     398,019 SH         SHARED       1,2,3  0       398,019  0
+IMAX CORPORATION                CMN             45245E109    3,994     709,332 SH         SHARED       1,2,3  0       709,332  0
+IAC/INTERACTIVE CORP            CMN             44919P102   17,085     775,889 SH         SHARED       1,2,3  0       775,889  0
+IPASS INC                       CMN             46261V108    2,860     477,545 SH         SHARED       1,2,3  0       477,545  0
+LA Z BOY CHAIR CO               CMN             505336107      260      17,100 SH         SHARED       1,2,3  0        17,100  0
+LAUREATE EDUCATION INC          CMN             518613104    7,584     203,760 SH         SHARED       1,2,3  0       203,760  0
+LEVEL 3 COMMUNICATIONS INC      CMN             52729N100    8,605   3,322,475 SH         SHARED       1,2,3  0     3,322,475  0
+LIONBRIDGE TECHNOLOGIES INC     CMN             536252109      129      15,008 SH         SHARED       1,2,3  0        15,008  0
+M SYS FLASH DISK PIONEERS LTD   CMN             M7061C100    1,132      68,633 SH         SHARED       1,2,3  0        68,633  0
+MANNATECH INC                   CMN             563771104    2,454     175,000 SH         SHARED       1,2,3  0       175,000  0
+MIDWAY GAMES INC                CMN             598148104    3,929     396,040 SH         SHARED       1,2,3  0       396,040  0
+MILLICOM INTL. CELLULAR S.A.    CMN             L6388F110    4,624     254,062 SH         SHARED       1,2,3  0       254,062  0
+NDS GROUP PLC                   SPONSORED ADR   628891103    5,414     200,519 SH         SHARED       1,2,3  0       200,519  0
+NEOWARE SYSTEMS INC             CMN             64065P102    2,481     298,890 SH         SHARED       1,2,3  0       298,890  0
+NETFLIX.COM INC                 CMN             64110L106      446      28,920 SH         SHARED       1,2,3  0        28,920  0
+NEXTEL COMMUNICATIONS           CLASS A         65332V103   20,228     848,474 SH         SHARED       1,2,3  0       848,474  0
+NII HOLDINGS INC                CLASS B         62913F201   10,206     247,661 SH         SHARED       1,2,3  0       247,661  0
+NTL INC DEL                     CMN             62940M104   15,172     244,430 SH         SHARED       1,2,3  0       244,430  0
+OPLINK COMMUNICATIONS INC       CMN             68375Q106       86      48,281 SH         SHARED       1,2,3  0        48,281  0
+QUALCOMM INC                    CMN             747525103   18,218     466,660 SH         SHARED       1,2,3  0       466,660  0
+RESEARCH IN MOTION              CMN             760975102    6,947      91,000 SH         SHARED       1,2,3  0        91,000  0
+SALESFORCE.COM INC              CMN             79466L302    7,038     450,300 SH         SHARED       1,2,3  0       450,300  0
+SCANSOFT INC                    CMN             80603P107    1,912     468,747 SH         SHARED       1,2,3  0       468,747  0
+SCHOLASTIC CORPORATION          CMN             807066105    1,563      50,610 SH         SHARED       1,2,3  0        50,610  0
+SECURE COMPUTING CORP           CMN             813705100      796     104,928 SH         SHARED       1,2,3  0       104,928  0
+SIGMATEL                        CMN             82661W107   15,511     731,284 SH         SHARED       1,2,3  0       731,284  0
+SINA CORPORATION                CMN             G81477104    4,135     162,215 SH         SHARED       1,2,3  0       162,215  0
+SKILLSOFT PLC                   SPONSORED ADR   830928107    1,617     241,769 SH         SHARED       1,2,3  0       241,769  0
+SONUS NETWORK INC               CMN             835916107      757     134,510 SH         SHARED       1,2,3  0       134,510  0
+SPECTRASITE, INC                CMN             84761M104    7,046     151,531 SH         SHARED       1,2,3  0       151,531  0
+TASER INTL INC                  CMN             87651B104   11,265     300,000 SH         SHARED       1,2,3  0       300,000  0
+TELESYSTEM INTL WIRELESS INC    NEW             879946606   15,789   1,669,009 SH         SHARED       1,2,3  0     1,669,009  0
+TESSERA TECHNOLOGIES INC        CMN             88164L100   27,494   1,244,075 SH         SHARED       1,2,3  0     1,244,075  0
+TRANSMETA CORP DEL              CMN             89376R109      135     106,843 SH         SHARED       1,2,3  0       106,843  0
+USANA HEALTH SCIENCES           CMN             90328M107    6,960     200,000 SH         SHARED       1,2,3  0       200,000  0
+WESTELL TECHNOLOGIES INC        CLASS A         957541105    1,332     257,570 SH         SHARED       1,2,3  0       257,570  0
+YAHOO! INC                      CMN             984332106    8,573     252,817 SH         SHARED       1,2,3  0       252,817  0
+ZIX CORPORATION                 CMN             98974P100    5,085   1,110,282 SH         SHARED       1,2,3  0     1,110,282  0
+
+</TABLE>
+
+
+02984.0001 #525664
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

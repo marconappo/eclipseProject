@@ -1,0 +1,285 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TIxYHgb9zQZ2EJZxMidXkZKbsnKwm02no2Xcg06Z08RkWu5tlTX8O1bavuIe/3tg
+ ft3lXadbuNI6HYsQLNjYmg==
+
+<SEC-DOCUMENT>0000919574-01-000351.txt : 20010307
+<SEC-HEADER>0000919574-01-000351.hdr.sgml : 20010307
+ACCESSION NUMBER:		0000919574-01-000351
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010302
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		1559908
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+
+<PAGE>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+                            Form 13F
+
+                       Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  December 31, 2000
+
+Check here if Amendment [   ]; Amendment Number:
+    This Amendment (Check only one.):  [   ] is a restatement.
+                                       [   ] adds new holdings
+                                             entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Coatue Management, LLC
+Address: 126 East 56th Street
+         New York, New York 10022
+
+Form 13F File Number: 28-
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct and complete, and
+that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Phillipe P. Laffont
+Title:   Investment Manager
+Phone:   (212) 715-5100
+
+Signature, Place, and Date of Signing:
+
+         /s/Phillipe Laffont     New York, N.Y.        2-27-2001
+         _______________________ _____________________ _________
+              [Signature]           [City, State]        [Date]
+
+Report Type (Check only one.):
+
+[X ]     13F HOLDINGS REPORT.  (Check here if all holdings of
+         this reporting manager are reported in this report.)
+
+[  ]     13F NOTICE.  (Check here if no holdings reported are in
+         this report, and all holdings are reported by other
+         reporting manager(s).)
+
+
+
+<PAGE>
+
+[  ]     13F COMBINATION REPORT.  (Check here if a portion of the
+         holdings for this reporting manager are reported in this
+         report and a portion are reported by other reporting
+         manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+         Form 13F File Number     Name
+
+         28-
+         [Repeat as necessary.]
+
+
+
+<PAGE>
+
+                      Form 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:          None
+
+Form 13F Information Table Entry Total:     61
+
+Form 13F Information Table Value Total:     $45,026
+                                            [thousands]
+
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file
+number(s) of all institutional investment managers with respect
+to which this report is filed, other than the manager filing this
+report.
+
+[If there are no entries in this list, state "NONE" and omit the
+column headings and list entries.]
+
+         No.       Form 13F File Number     Name
+
+                   28-
+
+         [Repeat as necessary.]
+
+
+
+<PAGE>
+
+<TABLE>
+                                                   Form 13F INFORMATION TABLE
+                                                        December 31, 2000
+<CAPTION>
+   COLUMN 1        COLUMN 2      COLUMN 3      COLUMN 4       COLUMN 5         COLUMN 6    COLUMN 7      COLUMN 8
+   ---------       --------      --------      --------       --------         ---------   --------      --------
+
+                    TITLE        CUSIP         MARKET    SHRS OR  SH/  PUT/  INVESTMENTS   OTHER      VOTING AUTHORITY
+NAME OF ISSUER     OF CLASS      NUMBER        VALUE     PRN AMT  PRN  CALL  DISCRETION    MANAGERS  SOLE  SHARED  NONE
+- --------------     --------      ------        ------    -------  ---  ----  -----------   --------  ----  ------  ----
+
+<S>                <C>           <C>        <C>          <C>       <C>  <C>   <C>          <C>       <C>      <C>    <C>
+360NETWORKS        Subordinate   88575T205   1,198,500    94000    SH         Sole         None      Sole
+                   Shares
+AMDOCS LIMITED     Ordinary      G02602103     907,625    13700    SH         Sole         None      Sole
+                   Shares
+BELLSOUTH CORP     Common Stock  079860102   2,292,500    56000    SH         Sole         None      Sole
+BIDCOM
+ INTERNATIONAL INC Common Stock  088788104       6,563    10000    SH         Sole         None      Sole
+BOOKS A MILLION
+ INC               Common Stock  098570104      15,125    11000    SH         Sole         None      Sole
+BROCADE COMMUNI-
+ CATIONS           Common Stock  111621108     459,063     5000    SH         Sole         None      Sole
+CENTILLIUM COM-
+ MUNICATIONS INC   Common Stock  152319109     222,500    10000    SH         Sole         None      Sole
+CENTRINITY INC     Common Stock  2247270       409,147    37210    SH         Sole         None      Sole
+CHARTER COMMUNI-
+ CATIONS, INC      Common Stock  16117M107   1,032,281    45500    SH         Sole         None      Sole
+CLEAR CHANNEL
+ COMMUNICATIONS    Common Stock  184502102   2,877,188    59400    SH         Sole         None      Sole
+COMCAST CP CL-A
+ SPECIAL           Class A       200300200   1,920,500    46000    SH         Sole         None      Sole
+                   Special
+COREL CORP         Common Stock  21868Q109     425,652   267076    SH         Sole         None      Sole
+COX COMMUNICATIONS
+  CL A             Class A       224044107     954,531    20500    SH         Sole         None      Sole
+                   Shares
+C-PHONE CORP       Common Stock  12616P105         688    22000    SH         Sole         None      Sole
+DATA DIMENSIONS
+ INC               Common Stock  237654207       4,469    13000    SH         Sole         None      Sole
+DSL.NET INC        Common Stock  262506108      95,625   180000    SH         Sole         None      Sole
+E.SPIRE COMMUNI-
+ CATIONS INC       Common Stock  269153102      57,500   115000    SH         Sole         None      Sole
+ECHOSTAR COMMUNI-
+ CATIONS CORP
+ CL-A              Class A       278762109   1,060,150    46600    SH         Sole         None      Sole
+                   Shares
+EMULEX CORP        Common Stock  292475209     447,650     5600    SH         Sole         None      Sole
+FOCAL COMMUNICA-
+ TIONS CORP        Common Stock  344155106     681,100    97300    SH         Sole         None      Sole
+GLOBALSTAR
+
+
+
+<PAGE>
+
+ TELECOMMUNICATION Common Stock  G3930H104     188,830   208364    SH         Sole         None      Sole
+GT GROUP TELECOM
+ INC.              Common Stock  362359408     604,500    80600    SH         Sole         None      Sole
+HANDSPRING INC     Common Stock  410293104   1,144,763    29400    SH         Sole         None      Sole
+INTERNAP NETWORK
+ SERVICES          Common Stock  45885A102   1,189,725   164100    SH         Sole         None      Sole
+INTERNET AMERICA
+ INC               Common Stock  46058Y109      15,625    25000    SH         Sole         None      Sole
+JB OXFORD HOLDINGS
+ INC               Common Stock  466107109      21,531    13000    SH         Sole         None      Sole
+JUNO ONLINE
+ SERVICES INC      Common Stock  482048105     127,444   194200    SH         Sole         None      Sole
+KANA COMMUNICATIONS
+ INC               Common Stock  483600102     345,000    30000    SH         Sole         None      Sole
+LINEAR TECHNOLOGY
+ CORP              Common Stock  535678106     656,750    14200    SH         Sole         None      Sole
+MATRIXONE INC      Common Stock  57685P304     805,706    44300    SH         Sole         None      Sole
+MAXIM INTEGRATED
+ PRODUCTS INC      Common Stock  57772K101     664,594    13900    SH         Sole         None      Sole
+MCLEODUSA INC CL-A Class A       582266102     506,424    35853    SH         Sole         None      Sole
+METRICOM INC       Common Stock  591596101   1,991,369   197900    SH         Sole         None      Sole
+MICROSOFT CORP.    Common Stock  594918104   1,388,000    32000    SH         Sole         None      Sole
+NEON COMMUNICA-
+ TIONS INC         Common Stock  640506101     295,750    45500    SH         Sole         None      Sole
+NETWORK ACCESS
+ SOLUTIONS         Common Stock  64120S109     111,000   177600    SH         Sole         None      Sole
+NETWORK PLUS CORP  Common Stock  64122D506     810,500   324200    SH         Sole         None      Sole
+NETZERO INC.       Common Stock  64122R109     230,913   263900    SH         Sole         None      Sole
+NEXTEL COMMUNICA-
+ TIONS CL A        Class A       65332V103     339,075    13700    SH         Sole         None      Sole
+NOKIA CORP SPON
+ ADR               ADR           654902204     957,000    22000    SH         Sole         None      Sole
+ORACLE CORPORATION Common Stock  68389X105   1,336,875    46000    SH         Sole         None      Sole
+PEAPOD INC         Common Stock  704718105      10,938    14000    SH         Sole         None      Sole
+PEGASUS COMMUNICA-
+ TIONS CORP        Common Stock  705904100     257,500    10000    SH         Sole         None      Sole
+PEOPLESOFT INC     Common Stock  712713106   2,636,594    70900    SH         Sole         None      Sole
+PERLE SYSTEMS LTD  Common Stock  714152105       6,875    10000    SH         Sole         None      Sole
+PORTAL SOFTWARE,
+ INC.              Common Stock  736126103     251,000    32000    SH         Sole         None      Sole
+PRIMUS TELECOMMUNI-
+ CATIONS GP        Common Stock  741929103     614,350   265665    SH         Sole         None      Sole
+PURCHASEPRO.COM
+ INC               Common Stock  746144104   1,634,500    93400    SH         Sole         None      Sole
+QLOGIC CORP        Common Stock  747277101     431,200     5600    SH         Sole         None      Sole
+RCN CORP           Common Stock  749361101     526,463    83400    SH         Sole         None      Sole
+RED HAT, INC.      Common Stock  756577102   1,330,000   212800    SH         Sole         None      Sole
+SBC COMMUNICATIONS
+  INC              Common Stock  78387G103   1,943,425    40700    SH         Sole         None      Sole
+TELIGENT, INC.     Common Stock  87959Y103     273,381   141100    SH         Sole         None      Sole
+
+
+
+<PAGE>
+
+UNIVERSAL ACCESS
+ INC               Common Stock  913363107     580,800    72600    SH         Sole         None      Sole
+USA NETWORKS INC   Common Stock  902984103   2,979,769   153300    SH         Sole         None      Sole
+VA LINUX SYSTEMS
+ INC               Common Stock  91819B105     623,188    76700    SH         Sole         None      Sole
+VIATEL INC         Common Stock  925529208     764,203   205500    SH         Sole         None      Sole
+WESTWOOD ONE INC   Common Stock  961815107     467,363    24200    SH         Sole         None      Sole
+WORLD ACCESS INC
+  (NEW)            Common Stock  98141A101     429,516   178500    SH         Sole         None      Sole
+YAHOO! INC.        Common Stock  984332106     465,969    15500    SH         Sole         None      Sole
+
+                   TOTAL:                   45,026,765
+</TABLE>
+02984001.AA0
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,221 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OjPjujjKIQigkqw6ZSeAUSuJCeJn+TEFDokWMa7rPnO+x1s8deyuDa1Gf7yF1/Qi
+ dSCzRh6UPaUyMfyFW1WzXA==
+
+<SEC-DOCUMENT>0000919574-08-004605.txt : 20080814
+<SEC-HEADER>0000919574-08-004605.hdr.sgml : 20080814
+<ACCEPTANCE-DATETIME>20080813202106
+ACCESSION NUMBER:		0000919574-08-004605
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20080630
+FILED AS OF DATE:		20080814
+DATE AS OF CHANGE:		20080813
+EFFECTIVENESS DATE:		20080814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		081015124
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d905073_13f-hr.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+Report for the Calendar Year or Quarter Ended:                  June 30, 2008
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+Address:  126 East 56th Street
+          New York, New York 10022
+
+
+13F File Number:  028-06391
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Philippe Laffont
+Title:  Managing Member
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+  /s/Philippe Laffont         New York, New York            August 14, 2008
+- -----------------------     ------------------------     ---------------------
+      [Signature]               [City, State]                   [Date]
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[X]     13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+        manager are reported in this report).
+
+[_]     13F NOTICE.  (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting managers(s).)
+
+[_]     13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager:      NONE
+
+<PAGE>
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:          1
+
+Form 13F Information Table Entry Total:     55
+
+Form 13F Information Table Value Total:     $1,863,349
+                                            (thousands)
+
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+     No.     Form 13F File Number          Name
+     ---     --------------------          ------------------------------------
+      1.        028-12788                     Coatue Offshore Master Fund, Ltd.
+
+<PAGE>
+
+<TABLE>
+                                                     FORM 13F INFORMATION TABLE
+                                                       COATUE MANAGEMENT, LLC
+                                                            JUNE 30, 2008
+<CAPTION>
+
+COLUMN 1                        COLUMN  2     COLUMN 3  COLUMN 4       COLUMN 5          COLUMN 6   COLUMN 7        COLUMN 8
+
+                              TITLE OF                   VALUE     SHRS OR  SH/ PUT/    INVESTMENT    OTHR      VOTING AUTHORITY
+NAME OF ISSUER                CLASS           CUSIP     (X$1000)   PRN AMT  PRN CALL    DISCRETION    MGRS   SOLE       SHARED  NONE
+
+<S>                           <C>             <C>        <C>      <C>       <C> <C>   <C>             <C>    <C>        <C>     <C>
+AKAMAI TECHNOLOGIES INC       COM             00971T101   37,992  1,092,029  SH       Shared-Defined    1    1,092,029     0      0
+APPLE INC                     COM             037833100  221,644  1,323,719  SH       Shared-Defined    1    1,323,719     0      0
+ARIBA INC                     COM NEW         04033V203      701     47,653  SH       Shared-Defined    1       47,653     0      0
+AU OPTRONICS CORP             SPONSORED ADR   002255107    7,920    500,000  SH       Shared-Defined    1      500,000     0      0
+AUTHENTIDATE HLDG CORP        COM             052666104       63    153,702  SH       Shared-Defined    1      153,702     0      0
+BAIDU COM INC                 SPON ADR REP A  056752108  100,984    322,673  SH       Shared-Defined    1      322,673     0      0
+BANKRATE INC                  COM             06646V108   70,270  1,798,571  SH       Shared-Defined    1    1,798,571     0      0
+BLUE NILE INC                 COM             09578R103   13,891    326,700  SH       Shared-Defined    1      326,700     0      0
+BROADCOM CORP                 CL A            111320107    6,550    240,000  SH       Shared-Defined    1      240,000     0      0
+CHINA DIGITAL TV HLDG CO LTD  SPONSORED ADR   16938G107    5,147    370,000  SH       Shared-Defined    1      370,000     0      0
+CHINA TECHFAITH WIRLS COMM T  SPONSORED ADR   169424108    1,501    355,733  SH       Shared-Defined    1      355,733     0      0
+CITRIX SYS INC                COM             177376100   85,230  2,897,993  SH       Shared-Defined    1    2,897,993     0      0
+CREE INC                      COM             225447101   18,704    820,012  SH       Shared-Defined    1      820,012     0      0
+FALCONSTOR SOFTWARE INC       COM             306137100   17,319  2,446,133  SH       Shared-Defined    1    2,446,133     0      0
+GARMIN LTD                    ORD             G37260109   13,923    325,000  SH       Shared-Defined    1      325,000     0      0
+GOOGLE INC                    CL A            38259P508  166,874    316,998  SH       Shared-Defined    1      316,998     0      0
+HOME INNS & HOTELS MGMT INC   SPON ADR        43713W107   45,260  2,380,855  SH       Shared-Defined    1    2,380,855     0      0
+IDEARC INC                    COM             451663108      548    233,000  SH       Shared-Defined    1      233,000     0      0
+IPASS INC                     COM             46261V108      486    234,898  SH       Shared-Defined    1      234,898     0      0
+ISILON SYS INC                COM             46432L104    1,843    415,038  SH       Shared-Defined    1      415,038     0      0
+LA Z BOY INC                  COM             505336107      832    108,809  SH       Shared-Defined    1      108,809     0      0
+LAWSON SOFTWARE INC NEW       COM             52078P102   64,632  8,890,188  SH       Shared-Defined    1    8,890,188     0      0
+LDK SOLAR CO LTD              SPONSORED ADR   50183L107   12,122    320,000  SH       Shared-Defined    1      320,000     0      0
+LG DISPLAY CO LTD             SPONS ADR REP   50186V102    9,340    500,000  SH       Shared-Defined    1      500,000     0      0
+MACROVISION SOLUTIONS CORP    COM             55611C108   37,317  2,494,445  SH       Shared-Defined    1    2,494,445     0      0
+MARCHEX INC                   CL B            56624R108   15,174  1,231,673  SH       Shared-Defined    1    1,231,673     0      0
+NAVTEQ CORP                   COM             63936L100    2,389     31,030  SH       Shared-Defined    1       31,030     0      0
+NETAPP INC                    COM             64110D104   42,353  1,955,371  SH       Shared-Defined    1    1,955,371     0      0
+NETFLIX INC                   COM             64110L106   13,035    500,000  SH       Shared-Defined    1      500,000     0      0
+NORTEL NETWORKS CORP NEW      COM NEW         656568508   25,355  3,084,600  SH       Shared-Defined    1    3,084,600     0      0
+NOVATEL WIRELESS INC          COM NEW         66987M604    8,236    740,001  SH       Shared-Defined    1      740,001     0      0
+NUTRI SYS INC NEW             COM             67069D108   10,299    728,383  SH       Shared-Defined    1      728,383     0      0
+O2MICRO INTERNATIONAL LTD     SPONS ADR       67107W100    9,961  1,497,964  SH       Shared-Defined    1    1,497,964     0      0
+QUALCOMM INC                  COM             747525103  199,507  4,496,446  SH       Shared-Defined    1    4,496,446     0      0
+R H DONNELLEY CORP            COM NEW         74955W307      549    183,000  SH       Shared-Defined    1      183,000     0      0
+REALNETWORKS INC              COM             75605L104    2,863    433,729  SH       Shared-Defined    1      433,729     0      0
+RENESOLA LTD                  SPONS ADS       75971T103    7,353    425,000  SH       Shared-Defined    1      425,000     0      0
+RESEARCH IN MOTION LTD        COM             760975102  247,972  2,121,230  SH       Shared-Defined    1    2,121,230     0      0
+RF MICRODEVICES INC           COM             749941100    1,238    426,929  SH       Shared-Defined    1      426,929     0      0
+SANDISK CORP                  COM             80004C101    7,306    390,685  SH       Shared-Defined    1      390,685     0      0
+SELECT COMFORT CORP           COM             81616X103      257    156,811  SH       Shared-Defined    1      156,811     0      0
+SIERRA WIRELESS INC           COM             826516106    5,021    343,919  SH       Shared-Defined    1      343,919     0      0
+SIGMA DESIGNS INC             COM             826565103   30,826  2,219,300  SH       Shared-Defined    1    2,219,300     0      0
+SILICON MOTION TECHNOLOGY CO  SPONSORED ADR   82706C108   11,013    762,168  SH       Shared-Defined    1      762,168     0      0
+SIRF TECHNOLOGY HLDGS INC     COM             82967H101    7,124  1,649,104  SH       Shared-Defined    1    1,649,104     0      0
+SOHU COM INC                  COM             83408W103  210,978  2,995,138  SH       Shared-Defined    1    2,995,138     0      0
+SUNPOWER CORP                 COM CL A        867652109   25,741    357,608  SH       Shared-Defined    1      357,608     0      0
+SYNAPTICS INC                 COM             87157D109      213      5,648  SH       Shared-Defined    1        5,648     0      0
+TECHTARGET INC                COM             87874R100    9,710    919,544  SH       Shared-Defined    1      919,544     0      0
+THE9 LTD                      ADR             88337K104    7,923    350,891  SH       Shared-Defined    1      350,891     0      0
+TRAVELZOO INC                 COM             89421Q106    4,985    581,628  SH       Shared-Defined    1      581,628     0      0
+TRIDENT MICROSYSTEMS INC      COM             895919108      621    170,188  SH       Shared-Defined    1      170,188     0      0
+TRINA SOLAR LIMITED           SPON ADR        89628E104    6,128    200,000  SH       Shared-Defined    1      200,000     0      0
+UNDER ARMOUR INC              CL A            904311107    6,212    242,259  SH       Shared-Defined    1      242,259     0      0
+UTSTARCOM INC                 COM             918076100    1,915    350,000  SH       Shared-Defined    1      350,000     0      0
+
+                                                       1,863,349
+</TABLE>
+
+
+
+
+
+SK 02984 0008 905073
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

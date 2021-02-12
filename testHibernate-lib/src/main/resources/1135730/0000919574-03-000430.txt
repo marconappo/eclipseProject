@@ -1,0 +1,192 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VZqlalvesCFDsgS9/IvVFDUJ+ChzhdNkOgVCEMs8WlJL/m7Aeo02rzMlZi/uDKMB
+ 5VZ0y99AwjABQFnJ/4gFSg==
+
+<SEC-DOCUMENT>0000919574-03-000430.txt : 20030214
+<SEC-HEADER>0000919574-03-000430.hdr.sgml : 20030214
+<ACCEPTANCE-DATETIME>20030214095917
+ACCESSION NUMBER:		0000919574-03-000430
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20021231
+FILED AS OF DATE:		20030214
+EFFECTIVENESS DATE:		20030214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		03563082
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d384641_13-f.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+            Report for the Calendar Year or Quarter Ended December 31, 2002
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+
+Address:  126 East 56th Street
+          New York, New York 10022
+
+
+13F File Number: 28-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+/s/ Phillipe Laffont             New York, N.Y.                  02/13/03
+- -----------------------     --------------------------    ----------------------
+     [Signature]                  [City, State]                   [Date]
+
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[  ]     13F NOTICE. (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[  ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+<PAGE>
+
+                              Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       None
+
+                   Form 13F Information Table Entry Total: 33
+
+Form 13F Information Table Value Total: $125,993
+                                       (thousands)
+
+
+List of Other Included Managers: None
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+[If there are no entries in this list, state "NONE" and omit the column headings
+and list entries.]
+
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       COATUE MANAGEMENT LLC
+                                                             31-Dec-02
+
+                                                                             Market Value          Investment  Other  Voting
+Investment Description                       Title of Class      Cusip       (x1,000)      Shares  Discretion  Mgrs  Authority
+<s>                                          <c>                <c>          <c>          <c>        <c>       <c>     <c>
+ACTIVISION INC. CMN                          Common             004930202       6,799      466,000   Sole      None    Sole
+ARBITRON INC.   CMN                          Common             03875Q108         801       23,900   Sole      None    Sole
+BUSINESS OBJECTS, S.A. SPON American         Sponsored ADR      12328X107       5,853      390,200   Sole      None    Sole
+CABOT MICROELECTRONICS CORP CMN              Common             12709P103      10,380      219,909   Sole      None    Sole
+CDW COMPUTER CENTRES INC  CMN                Common             125129106       3,947       90,000   Sole      None    Sole
+CISCO SYSTEMS, INC  CMN                      Common             17275R102       3,275      250,000   Sole      None    Sole
+CREE  CMN                                    Common             225447101       2,774      169,669   Sole      None    Sole
+DELL COMPUTER CORPORATION                    Common             247025109       5,241      195,991   Sole      None    Sole
+EXPEDIA INC  CMN                             Class A            302125109       2,343       35,000   Sole      None    Sole
+FALCONSTOR SOFTWARE INC  CMN                 Common             306137100         416      107,095   Sole      None    Sole
+FREEMARKETS INC  CMN                         Common             356602102         818      127,076   Sole      None    Sole
+HOTELS.COM   CMN CLASS A                     Common             44147T108       1,366       25,000   Sole      None    Sole
+KOPIN CORP                                   Common             500600101         678      172,950   Sole      None    Sole
+LINEAR TECHNOLOGY CORP. CMN                  Common             535678106       2,701      105,000   Sole      None    Sole
+MAXIM INTEGRATED PRODUCTS INC CMN            Common             57772K101       4,172      126,270   Sole      None    Sole
+MCDATA CORP  CMN CLASS A                     Class A            580031201       1,840      259,100   Sole      None    Sole
+MCSI INC. CMN                                Common             55270M108         860      181,132   Sole      None    Sole
+MICROSOFT CORP. CMN                          Common             594918104       6,326      122,360   Sole      None    Sole
+NEOFORMA INC CMN                             Common             640475505       7,983      668,052   Sole      None    Sole
+NEOWARE SYSTEMS INC CMN                      Common             64065P102       2,988      200,402   Sole      None    Sole
+NETWORK ASSOCIATES  CMN                      Common             640938106       9,010      560,000   Sole      None    Sole
+NOKIA CORP SPON ADR                          Sponsored ADR      654902204       9,455      610,000   Sole      None    Sole
+OMNIVISION TECHNOLOGIES INC CMN              Common             682128103       8,001      589,645   Sole      None    Sole
+PEGASUS COMMUNICATIONS CORP  CMN             Class A            705904100          13       10,000   Sole      None    Sole
+SAP AKTIENGESELLSCHAFT  (Spon. Adr)          Sponsored ADR      803054204       5,655      290,000   Sole      None    Sole
+SCANSOFT INC                                 Common             80603P107       4,100      788,375   Sole      None    Sole
+SILICON LABORATIORIES INC CMN                Common             826919102       7,429      389,368   Sole      None    Sole
+SONUS NETWORKS INC CMN                       Common             835916107         135      134,510   Sole      None    Sole
+SYMANTEC CORP CMN                            Common             871503108       3,605       89,000   Sole      None    Sole
+TRENWICK GROUP LTD  CMN                      Common             G9032C109          19       25,900   Sole      None    Sole
+WEBEX COMMUNICATIONS INC  CMN                Common             94767L109       3,898      259,850   Sole      None    Sole
+WEBSENSE INC. CMN                            Common             947684106       1,742       81,565   Sole      None    Sole
+ZIX CORPORATION  CMN                         Common             98974P100       1,372      311,211   Sole      None    Sole
+                                                                              125,993    8,074,530
+</TABLE>
+
+
+
+
+02984.0001 #384641
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

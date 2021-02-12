@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001350694</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2014</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2014</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Bridgewater Associates, LP</name>
+        <address>
+          <com:street1>ONE GLENDINNING PLACE</com:street1>
+          <com:city>WESTPORT</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06880</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-11794</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Helene Glotzer</name>
+      <title>Chief Compliance Officer</title>
+      <phone>203-226-3030</phone>
+      <signature>/s/ Helene Glotzer</signature>
+      <city>Westport</city>
+      <stateOrCountry>CT</stateOrCountry>
+      <signatureDate>08-12-2014</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>303</tableEntryTotal>
+      <tableValueTotal>13343625</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>

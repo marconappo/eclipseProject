@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0000919574-12-006306.txt : 20121114
+<SEC-HEADER>0000919574-12-006306.hdr.sgml : 20121114
+<ACCEPTANCE-DATETIME>20121114115401
+ACCESSION NUMBER:		0000919574-12-006306
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120930
+FILED AS OF DATE:		20121114
+DATE AS OF CHANGE:		20121114
+EFFECTIVENESS DATE:		20121114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+		IRS NUMBER:				134078032
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		121202202
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9 WEST 57TH STREET
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-715-5100
+
+	MAIL ADDRESS:	
+		STREET 1:		9 WEST 57TH STREET
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COATUE MANAGEMENT, L.L.C.
+		DATE OF NAME CHANGE:	20111130
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COATUE MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20010301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1330866_13f-hr.txt
+<TEXT>
+
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F Cover Page
+
+
+Report for the Calendar Year or Quarter Ended: September 30, 2012
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+Address:  9 West 57th Street
+          New York, New York 10019
+
+
+13F File Number: 028-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Philippe Laffont
+Title:   Managing Member
+Phone:   (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+/s/Philippe Laffont              New York, NY               November 14, 2012
+-----------------------     --------------------------    ----------------------
+     [Signature]                 [City, State]                   [Date]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+Report Type: (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+<PAGE>
+
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         1
+
+Form 13F Information Table Entry Total:    47
+
+Form 13F Information Table Value Total:    $6,306,778
+                                           (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.        Form 13F File Number      Name
+----       -------------------       ------------------------------
+1.             028-12788             Coatue Offshore Master Fund, Ltd.
+
+<PAGE>
+
+
+
+
+<TABLE>
+
+                                                     FORM 13F INFORMATION TABLE
+                                                       COATUE MANAGEMENT, LLC
+                                                         September 30, 2012
+
+
+
+COLUMN 1                        COLUMN 2      COLUMN 3     COLUMN 4           COLUMN 5     COLUMN 6   COLUMN 7     COLUMN 8
+
+                                 TITLE                     VALUE       SHRS OR  SH/ PUT/  INVESTMENT  OTHER      VOTING AUTHORITY
+NAME OF ISSUER                 OF CLASS         CUSIP      (X1000)     PRN AMT  PRN CALL  DISCRETION  MANGRS     SOLE    SHARED NONE
+<S>                            <C>            <C>          <C>      <C>         <C> <C>    <C>         <C>    <C>         <C>   <C>
+AKAMAI TECHNOLOGIES INC       COM             00971T101    184,778   4,829,522  SH         DEFINED     1       4,829,522  -     -
+AMAZON COM INC                COM             023135106    201,313     791,574  SH         DEFINED     1         791,574  -     -
+AMERICAN TOWER CORP NEW       COM             03027X100    112,122   1,570,552  SH         DEFINED     1       1,570,552  -     -
+APPLE INC                     COM             037833100    950,450   1,424,738  SH         DEFINED     1       1,424,738  -     -
+ATMEL CORP                    COM             049513104     31,331   5,956,396  SH         DEFINED     1       5,956,396  -     -
+BAIDU INC                     SPON ADR REP A  056752108     83,215     711,909  SH         DEFINED     1         711,909  -     -
+BEST BUY INC                  COM             086516101     25,733   1,496,077  SH         DEFINED     1       1,496,077  -     -
+BLOCK H & R INC               COM             093671105     16,259     938,180  SH         DEFINED     1         938,180  -     -
+CHIPOTLE MEXICAN GRILL INC    COM             169656105    131,609     414,465  SH         DEFINED     1         414,465  -     -
+CLIFFS NATURAL RESOURCES INC  COM             18683K101     54,160   1,384,095  SH         DEFINED     1       1,384,095  -     -
+DONNELLEY R R & SONS CO       COM             257867101     15,756   1,486,394  SH         DEFINED     1       1,486,394  -     -
+EQUINIX INC                   COM NEW         29444U502    857,884   4,163,477  SH         DEFINED     1       4,163,477  -     -
+FACEBOOK INC                  CL A            30303M102     30,324   1,400,000  SH         DEFINED     1       1,400,000  -     -
+FIRST SOLAR INC               COM             336433107     64,856   2,928,677  SH         DEFINED     1       2,928,677  -     -
+GOOGLE INC                    CL A            38259P508    322,872     427,928  SH         DEFINED     1         427,928  -     -
+HAIN CELESTIAL GROUP INC      COM             405217100    119,569   1,897,916  SH         DEFINED     1       1,897,916  -     -
+INFORMATICA CORP              COM             45666Q102    137,931   3,957,846  SH         DEFINED     1       3,957,846  -     -
+INTUIT                        COM             461202103    137,004   2,326,842  SH         DEFINED     1       2,326,842  -     -
+JOY GLOBAL INC                COM             481165108     32,949     587,740  SH         DEFINED     1         587,740  -     -
+LEVEL 3 COMMUNICATIONS INC    COM NEW         52729N308     11,695     509,122  SH         DEFINED     1         509,122  -     -
+LIBERTY GLOBAL INC            COM SER A       530555101    394,968   6,501,524  SH         DEFINED     1       6,501,524  -     -
+LINKEDIN CORP                 COM CL A        53578A108     78,676     653,457  SH         DEFINED     1         653,457  -     -
+LIQUIDITY SERVICES INC        COM             53635B107     45,234     900,924  SH         DEFINED     1         900,924  -     -
+LOGITECH INTL S A             SHS             H50430232     10,263   1,125,376  SH         DEFINED     1       1,125,376  -     -
+MOLYCORP INC DEL              COM             608753109     23,498   2,043,337  SH         DEFINED     1       2,043,337  -     -
+NEWS CORP                     CL A            65248E104    312,097  12,736,071  SH         DEFINED     1      12,736,071  -     -
+NII HLDGS INC                 CL B NEW        62913F201     56,716   7,243,390  SH         DEFINED     1       7,243,390  -     -
+NOKIA CORP                    SPONSORED ADR   654902204     24,074   9,349,126  SH         DEFINED     1       9,349,126  -     -
+NUTRI SYS INC NEW             COM             67069D108      7,670     728,383  SH         DEFINED     1         728,383  -     -
+PITNEY BOWES INC              COM             724479100     17,071   1,235,204  SH         DEFINED     1       1,235,204  -     -
+POLYCOM INC                   COM             73172K104     20,188   2,049,497  SH         DEFINED     1       2,049,497  -     -
+PRICELINE COM INC             COM NEW         741503403    324,391     523,997  SH         DEFINED     1         523,997  -     -
+QUALCOMM INC                  COM             747525103     45,245     724,272  SH         DEFINED     1         724,272  -     -
+QUINSTREET INC                COM             74874Q100      4,418     526,593  SH         DEFINED     1         526,593  -     -
+RALPH LAUREN CORP             CL A            751212101     32,999     218,202  SH         DEFINED     1         218,202  -     -
+RESEARCH IN MOTION LTD        COM             760975102     19,153   2,553,791  SH         DEFINED     1       2,553,791  -     -
+SILICON LABORATORIES INC      COM             826919102     29,814     811,054  SH         DEFINED     1         811,054  -     -
+SIRIUS XM RADIO INC           COM             82967N108    130,101  50,232,181  SH         DEFINED     1      50,232,181  -     -
+STEC INC                      COM             784774101      6,750   1,000,000  SH         DEFINED     1       1,000,000  -     -
+SUPERVALU INC                 COM             868536103     11,353   4,710,629  SH         DEFINED     1       4,710,629  -     -
+SYNCHRONOSS TECHNOLOGIES INC  COM             87157B103     10,540     460,247  SH         DEFINED     1         460,247  -     -
+TIME WARNER INC               COM NEW         887317303    152,569   3,365,374  SH         DEFINED     1       3,365,374  -     -
+TIME WARNER CABLE INC         COM             88732J207    196,402   2,066,083  SH         DEFINED     1       2,066,083  -     -
+TRIPADVISOR INC               COM             896945201    196,417   5,964,668  SH         DEFINED     1       5,964,668  -     -
+VERISIGN INC                  COM             92343E102     61,299   1,258,966  SH         DEFINED     1       1,258,966  -     -
+VIACOM INC NEW                CL B            92553P201     99,124   1,849,670  SH         DEFINED     1       1,849,670  -     -
+VIRGIN MEDIA INC              COM             92769L101    473,942  16,109,508  SH         DEFINED     1      16,109,508  -     -
+
+</TABLE>
+
+
+
+
+SK 02984 0008 1330866
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

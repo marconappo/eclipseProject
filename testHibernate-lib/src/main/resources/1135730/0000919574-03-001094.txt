@@ -1,0 +1,196 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VmSfZCa6QaqE152uckQb6cjkbpBWeK0Buokz9/2eAH4lyUpHLf6vVoy0Y069KDUs
+ RFeF1ZNvJjXgxDoeNSMamQ==
+
+<SEC-DOCUMENT>0000919574-03-001094.txt : 20030514
+<SEC-HEADER>0000919574-03-001094.hdr.sgml : 20030514
+<ACCEPTANCE-DATETIME>20030514124333
+ACCESSION NUMBER:		0000919574-03-001094
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030331
+FILED AS OF DATE:		20030514
+EFFECTIVENESS DATE:		20030514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		03697828
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d404534_13-f.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+            Report for the Calendar Year or Quarter Ended March 31, 2003
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+
+Address:  126 East 56th Street
+          New York, NY 10022
+
+
+13F File Number: 28-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/ Phillipe Laffont               New York, NY                   05/14/03
+- -----------------------     --------------------------    ----------------------
+     [Signature]                  [City, State]                    [Date]
+
+
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE. (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT. (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE [If there are no entries
+in this list, omit this section.]
+
+<PAGE>
+
+Form 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:       NONE
+
+                   Form 13F Information Table Entry Total: 38
+
+Form 13F Information Table Value Total: $213,378
+                                       (thousands)
+
+
+List of Other Included Managers: None
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+[If there are no entries in this list, state "NONE" and omit the column headings
+and list entries.]
+
+<PAGE>
+<TABLE>
+                                                      COATUE MANAGEMENT LLC
+                                                    Form 13F Information Table
+<CAPTION>
+    Column 1                    Column 2       Column 3    Column 4          Column 5     Column 6  Column 7        Column 8
+                                                           Market
+                                Title                      Value                Sh/ Put/ Investment  Other      Voting Authority
+Name of Issuer                  of Class        Cusip      (x1000)      Shares  Prn Call Discretion  Mgrs      Sole    Shared  None
+<S>                             <C>             <C>         <C>       <C>        <C> <C>  <C>        <C>   <C>            <C>   <C>
+ACTIVISION INC.                 Common          004930202    5,792      400,800  SH       Sole       None     400,800     0     0
+ARBITRON INC.                   Common          03875Q108    4,914      155,000  SH       Sole       None     155,000     0     0
+AVANEX                          Common          05348W109       56       71,998  SH       Sole       None      71,998     0     0
+AVID TECHNOLOGY INC             Common          05367P100    3,218      145,000  SH       Sole       None     145,000     0     0
+BOOKS A MILLION INC             Common          098570104       25       11,000  SH       Sole       None      11,000     0     0
+BROADWING INC                   Common          111620100    4,279    1,069,700  SH       Sole       None   1,069,700     0     0
+BUSINESS OBJECTS, S.A.
+   SPON American                Sponsored ADR   12328X107    9,810      600,000  SH       Sole       None     600,000     0     0
+CAREER EDUCATION CENTERS INC    Common          141665109    5,137      105,000  SH       Sole       None     105,000     0     0
+CDW COMPUTER CENTRES INC        Common          125129106   10,608      260,000  SH       Sole       None     260,000     0     0
+CHOICEPOINT INC                 Common          170388102   11,357      335,000  SH       Sole       None     335,000     0     0
+COINSTAR INC                    Common          19259P300    9,235      550,000  SH       Sole       None     550,000     0     0
+CREE                            Common          225447101    4,642      250,669  SH       Sole       None     250,669     0     0
+DELL COMPUTER CORPORATION       Common          247025109   17,260      632,000  SH       Sole       None     632,000     0     0
+DSL.NET INC                     Common          262506108       29       76,233  SH       Sole       None      76,233     0     0
+EXPEDIA INC                     CMN Class A     302125109   10,849      210,000  SH       Sole       None     210,000     0     0
+INRANGE TECHNOLOGIES CORP       CMN Class B     45769V206       65       35,576  SH       Sole       None      35,576     0     0
+INTUIT                          Common          461202103   15,624      420,000  SH       Sole       None     420,000     0     0
+MCSI INC.                       Common          55270M108       62      181,132  SH       Sole       None     181,132     0     0
+MICROSOFT CORP.                 Common          594918104    9,079      375,000  SH       Sole       None     375,000     0     0
+NEOFORMA INC                    Common          640475505    8,380      661,953  SH       Sole       None     661,953     0     0
+NEOWARE SYSTEMS INC             Common          64065P102    4,121      329,445  SH       Sole       None     329,445     0     0
+NETWORK ASSOCIATES              Common          640938106    6,007      435,000  SH       Sole       None     435,000     0     0
+NOKIA CORP SPON ADR             Sponsored ADR   654902204   14,010    1,000,000  SH       Sole       None   1,000,000     0     0
+OAK TECHNOLOGY INC              Common          671802106    3,371      954,900  SH       Sole       None     954,900     0     0
+OMNIVISION TECHNOLOGIES INC     Common          682128103   10,440      503,845  SH       Sole       None     503,845     0     0
+OPLINK COMMUNICATIONS INC       Common          68375Q106       14       14,400  SH       Sole       None      14,400     0     0
+RENT-A-CENTER INC               Common          76009N100      824       15,000  SH       Sole       None      15,000     0     0
+SAP AKTIENGESELLSCHAFT          Sponsored ADR   803054204    5,688      300,000  SH       Sole       None     300,000     0     0
+SCHOLASTIC CORPORATION          Common          807066105    2,503       93,086  SH       Sole       None      93,086     0     0
+SKILLSOFT PUBLIC LTD CO         Sponsored ADR   830928107      641      241,769  SH       Sole       None     241,769     0     0
+STORAGE NETWORKS INC            Common          86211E103       60       67,128  SH       Sole       None      67,128     0     0
+SYMANTEC CORP CMN               Common          871503108    9,599      245,000  SH       Sole       None     245,000     0     0
+TMP WORLDWIDE INC               Common          872941109    9,822      915,406  SH       Sole       None     915,406     0     0
+TRENWICK GROUP LTD              Common          G9032C109       20      164,411  SH       Sole       None     164,411     0     0
+USA INTERACTIVE                 Common          902984103    8,492      317,000  SH       Sole       None     317,000     0     0
+WEBEX COMMUNICATIONS INC        Common          94767L109    2,312      223,405  SH       Sole       None     223,405     0     0
+WEBSENSE INC.                   Common          947684106    3,697      251,662  SH       Sole       None     251,662     0     0
+ZIX CORPORATION                 Common          98974P100    1,338      311,211  SH       Sole       None     311,211     0     0
+                                                   Total:  213,378
+</TABLE>
+
+
+02984.0001 #404534
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

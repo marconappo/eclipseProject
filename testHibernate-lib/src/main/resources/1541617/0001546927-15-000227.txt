@@ -1,0 +1,521 @@
+<SEC-DOCUMENT>0001546927-15-000227.txt : 20150814
+<SEC-HEADER>0001546927-15-000227.hdr.sgml : 20150814
+<ACCEPTANCE-DATETIME>20150814101603
+ACCESSION NUMBER:		0001546927-15-000227
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20150630
+FILED AS OF DATE:		20150814
+DATE AS OF CHANGE:		20150814
+EFFECTIVENESS DATE:		20150814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Altimeter Capital Management, LP
+		CENTRAL INDEX KEY:			0001541617
+		IRS NUMBER:				263539535
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14752
+		FILM NUMBER:		151053203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE INTERNATIONAL PLACE
+		STREET 2:		SUITE 2400
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		617-310-6142
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INTERNATIONAL PLACE
+		STREET 2:		SUITE 2400
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Altimeter Capital Management, LLC
+		DATE OF NAME CHANGE:	20120207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001541617</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2015</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2015</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Altimeter Capital Management, LP</name>
+        <address>
+          <ns1:street1>One International Place</ns1:street1>
+          <ns1:street2>Suite 2400</ns1:street2>
+          <ns1:city>Boston</ns1:city>
+          <ns1:stateOrCountry>MA</ns1:stateOrCountry>
+          <ns1:zipCode>02110</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-14752</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>John J. Kiernan III</name>
+      <title>Chief Compliance Officer</title>
+      <phone>617-310-6180</phone>
+      <signature>John J. Kiernan III</signature>
+      <city>Boston</city>
+      <stateOrCountry>MA</stateOrCountry>
+      <signatureDate>08-14-2015</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>25</tableEntryTotal>
+      <tableValueTotal>1350675</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>ALASKA AIR GROUP INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>011659109</cusip>
+    <value>72686</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1128146</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1128146</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ALLEGIANT TRAVEL CO</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>01748X102</cusip>
+    <value>1921</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>10800</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>10800</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AMAZON COM INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>023135106</cusip>
+    <value>8682</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>20000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>20000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AMERICAN AIRLS GROUP INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>02376R102</cusip>
+    <value>80036</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2004167</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2004167</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AVIS BUDGET GROUP</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>053774105</cusip>
+    <value>78512</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1781127</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1781127</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CTRIP COM INTL LTD</nameOfIssuer>
+    <titleOfClass>American DEP SHS</titleOfClass>
+    <cusip>22943F100</cusip>
+    <value>64360</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>886258</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>886258</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DELTA AIR LINES INC DEL</nameOfIssuer>
+    <titleOfClass>Com New</titleOfClass>
+    <cusip>247361702</cusip>
+    <value>38546</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>938327</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>938327</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DEMANDWARE INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>24802Y105</cusip>
+    <value>34118</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>480000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>480000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ELONG INC</nameOfIssuer>
+    <titleOfClass>Sponsored ADR</titleOfClass>
+    <cusip>290138205</cusip>
+    <value>8149</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>481590</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>481590</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>EXPEDIA INC DEL</nameOfIssuer>
+    <titleOfClass>Com New</titleOfClass>
+    <cusip>30212P303</cusip>
+    <value>258652</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2365357</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2365357</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FACEBOOK INC</nameOfIssuer>
+    <titleOfClass>Class A</titleOfClass>
+    <cusip>30303M102</cusip>
+    <value>68187</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>795045</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>795045</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FIVE9 INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>338307101</cusip>
+    <value>3138</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>600000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>600000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HERTZ GLOBAL HOLDINGS INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>42805T105</cusip>
+    <value>29268</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1615235</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1615235</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HUBSPOT INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>443573100</cusip>
+    <value>16753</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>337902</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>337902</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MAKEMYTRIP LIMITED MAURITIUS</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>V5633W109</cusip>
+    <value>1442</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>73285</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>73285</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ORBITZ WORLDWIDE INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>68557K109</cusip>
+    <value>1268</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>111000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>111000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PRICELINE GRP INC</nameOfIssuer>
+    <titleOfClass>Com New</titleOfClass>
+    <cusip>741503403</cusip>
+    <value>81725</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>70981</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>70981</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>QUNAR CAYMAN IS LTD</nameOfIssuer>
+    <titleOfClass>SPNS ADR CL B</titleOfClass>
+    <cusip>74906P104</cusip>
+    <value>43892</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1024326</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1024326</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ROYAL CARIBBEAN CRUISES LTD</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>V7780T103</cusip>
+    <value>97691</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1241469</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1241469</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TRIPADVISOR INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>896945201</cusip>
+    <value>52284</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>600000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>600000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>UNITED CONTL HLDGS INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>910047109</cusip>
+    <value>251725</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>4748637</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>4748637</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>UNITED RENTALS INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>911363109</cusip>
+    <value>701</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>8000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>8000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WORKDAY INC</nameOfIssuer>
+    <titleOfClass>Class A</titleOfClass>
+    <cusip>98138H101</cusip>
+    <value>15278</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>200000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>200000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ZENDESK INC</nameOfIssuer>
+    <titleOfClass>Com</titleOfClass>
+    <cusip>98936J101</cusip>
+    <value>7774</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>350000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>350000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ZILLOW GROUP INC</nameOfIssuer>
+    <titleOfClass>Class A</titleOfClass>
+    <cusip>98954M101</cusip>
+    <value>33887</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>390674</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>390674</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,217 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CzX04L+eUR9k++DRKNZjwsZgYSFrtgSGxGiEtOyk7Rm2m8G1OKqP7prG58Qa1x5w
+ iQ+M60HOXLhY6o994cVxVw==
+
+<SEC-DOCUMENT>0000919574-02-001017.txt : 20020515
+<SEC-HEADER>0000919574-02-001017.hdr.sgml : 20020515
+ACCESSION NUMBER:		0000919574-02-001017
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020331
+FILED AS OF DATE:		20020515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		02648053
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d322187_form13-f.txt
+<DESCRIPTION>FORM 13-F
+<TEXT>
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C. 20549
+
+                                  FORM 13F
+
+                            FORM 13F Cover Page
+
+
+
+        Report for the Calendar Year or Quarter Ended March 31, 2002
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+
+Address:  126 East 56th Street
+          New York, New York 10022
+
+
+13F File Number: 28-06391
+
+The institutional  investment  manager filing this report and the person by
+whom it is signed hereby  represent  that the person  signing the report is
+authorized  to submit it, that all  information  contained  herein is true,
+correct and complete,  and that it is understood  that all required  items,
+statements,  schedules, lists, and tables, are considered integral parts of
+this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+/s/ Phillipe Laffont               New York, N.Y.                5/13/02
+- -----------------------     --------------------------    --------------------
+     [Signature]                   [City, State]                  [Date]
+
+
+Report Type:  (Check only one):
+
+[X]  13F HOLDINGS  REPORT.  (Check here if all  holdings of this  reporting
+     manager are reported in this report).
+
+[_]  13F NOTICE.  (Check here if no holdings  reported  are in this report,
+     and all holdings are reported by other reporting managers(s).)
+
+[_]  13F COMBINATION  REPORT.  (Check here if a portion of the holdings for
+     this  reporting  manager are reported in this report and a portion are
+     reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+
+<PAGE>
+
+
+                           Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       None
+
+Form 13F Information Table Entry Total:  48
+
+Form 13F Information Table Value Total:  $180,144
+                                         (thousands)
+
+
+List of Other Included Managers: None
+
+Provide a numbered  list of the name(s) and Form 13F file  number(s) of all
+institutional  investment  managers  with  respect to which this  report is
+filed, other than the manager filing this report.
+
+[If there are no  entries in this  list,  state  "NONE" and omit the column
+headings and list entries.]
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+
+                                                      FORM 13F INFORMATION TABLE
+
+
+              COLUMN1               COLUMN 2    COLUMN 3    COLUMN 4           COLUMN 5       COLUMN 6   COLUMN 7       COLUMN 8
+
+                                                            MARKET
+                                 TITLE OF                   VALUE       SHRS OR  SH/  PUT/  INVESTMENT   OTHER     VOTING AUTHORITY
+NAME OF ISSUER                   TITLE          CUSIP       (x1,000)    PRN AMT  PRN  CALL  DISCRETION  MANAGERS  SOLE  SHARED  NONE
+<S>                              <C>            <C>         <C>         <C>      <C>  <C>   <C>         <C>       <C>   <C>     <C>
+
+ACCENTURE LTD CMN                Class A        G1150G111      3,017      113,000              Sole       None    Sole
+ADVANCED MICRO DEVICES CMN       Common         007903107      5,365      364,700              Sole       None    Sole
+ALPHA INDUSTRIES CMN             Common         020753109      2,455      161,000              Sole       None    Sole
+AMDOCS LTD                       Ordinary       G02602103      6,601      247,700              Sole       None    Sole
+AOL TIME WARNER INC              Common         00184A105     11,241      475,300              Sole       None    Sole
+ARIBA INC                        Common         04033V104        716      157,950              Sole       None    Sole
+CHECK POINT SOFTWARE TECH. LTD   Ordinary       M22465104      4,755      156,400              Sole       None    Sole
+CISCO SYSTEMS, INC               Common         17275R102      8,245      487,000              Sole       None    Sole
+COMPUTER ASSOCIATES              Common         204912109      5,735      262,000              Sole       None    Sole
+CREE                             Common         225447101      4,036      296,100              Sole       None    Sole
+CSG SYSTEMS INTL INC             Common         126349109      3,624      127,300              Sole       None    Sole
+CYPRESS SEMICONDUCTOR CORP       Common         232806109      4,865      211,500              Sole       None    Sole
+DOCUMENTUM INC                   Common         256159104      2,927      115,000              Sole       None    Sole
+ECHOSTAR COMMUNICATIONS CORP     Class A        278762109     13,486      476,200              Sole       None    Sole
+EMC CORPORATION MASS             Common         268648102      5,424      455,000              Sole       None    Sole
+FALCONSTOR SOFTWARE INC          Common         306137100        761      120,000              Sole       None    Sole
+GENESIS MICROCHIP INC DEL        Common         37184C103      1,903       73,200              Sole       None    Sole
+I2 TECHNOLOGIES, INC             Common         465754109      1,392      275,000              Sole       None    Sole
+INFORMATICA CORP                 Common         45666Q102      2,604      359,700              Sole       None    Sole
+INTERNET SEC SYS INC             Common         46060X107      1,782       78,000              Sole       None    Sole
+KOPIN CORP                       Common         500600101      2,257      247,700              Sole       None    Sole
+LINEAR TECHNOLOGY CORP           Common         535678106      4,820      109,000              Sole       None    Sole
+MANUGISTICS                      Common         565011103      2,792      130,000              Sole       None    Sole
+MAXIM INTEGRATED PRODUCTS INC    Common         57772K101      4,930       88,500              Sole       None    Sole
+McAFEE COM CORP                  Class A        579062100      2,775      168,500              Sole       None    Sole
+MCDATA CORP                      Class A        580031201      3,181      268,000              Sole       None    Sole
+MICROSOFT CORP.                  Common         594918104      5,355       88,791              Sole       None    Sole
+NETEGRITY INC                    Common         64110P107        904       61,100              Sole       None    Sole
+NETIQ CORPORATION                Common         64115P102      4,602      211,000              Sole       None    Sole
+NEXTEL COMMUNICATIONS            Common         65332V103      3,427      636,900              Sole       None    Sole
+NOKIA CORP SPON ADR              ADR            654902204      5,413      261,000              Sole       None    Sole
+NTL INCORPORATED (NEW)           Common         629407107        512    1,860,200              Sole       None    Sole
+ORACLE CORPORATION               Common         68389X105      4,211      329,000              Sole       None    Sole
+POLYCOM INC                      Common         73172K104      1,599       65,000              Sole       None    Sole
+RCN CORP                         Common         749361101        333      236,200              Sole       None    Sole
+SBC COMMUNICATIONS INC           Common         78387G103      4,744      126,700              Sole       None    Sole
+SECURE COMPUTING CORP            Common         813705100        480       24,500              Sole       None    Sole
+SIEBEL SYSTEMS INC               Common         826170102        336       10,300              Sole       None    Sole
+SPRINT CORP (PCS GRP)            Common         852061506      5,629      547,000              Sole       None    Sole
+STORAGENETWORKS INC              Common         86211E103        139       40,000              Sole       None    Sole
+TAIWAN SEMICONDUCTOR MFG (ADS)   Sponsored ADR  874039100     10,898      525,200              Sole       None    Sole
+TEXAS INSTRUMENTS INC.           Common         882508104      7,226      218,300              Sole       None    Sole
+UNIVERSAL DISPLAY CORP           Common         91347P105        226       23,500              Sole       None    Sole
+USA NETWORKS INC                 Common         902984103      3,082       97,000              Sole       None    Sole
+VIACOM INC CL-B COMMON           Class B        925524308      2,907       60,100              Sole       None    Sole
+WEBEX COMMUNICATIONS INC         Common         94767L109      5,065      307,900              Sole       None    Sole
+XEROX CORPORATION                Common         984121103        146       13,600              Sole       None    Sole
+YAHOO! INC                       Common         984332106      1,191       64,500              Sole       None    Sole
+                                                             180,114   11,831,541
+
+</TABLE>
+
+
+
+
+
+
+02984.0001 #322187
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

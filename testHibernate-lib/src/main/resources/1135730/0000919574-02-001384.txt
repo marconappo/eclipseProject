@@ -1,0 +1,211 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ I78tjrQW7ov2qa73KMYHE6wE7h3sRNQiVgvkibQcfBn2b7XKECZzrsc7VKYmys/n
+ GXMkLhp8p4EevA73vvNqvQ==
+
+<SEC-DOCUMENT>0000919574-02-001384.txt : 20020813
+<SEC-HEADER>0000919574-02-001384.hdr.sgml : 20020813
+<ACCEPTANCE-DATETIME>20020813165651
+ACCESSION NUMBER:		0000919574-02-001384
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020630
+FILED AS OF DATE:		20020813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		02730397
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d343183_13-f.txt
+<DESCRIPTION>FOR QUARTER ENDED JUNE 30, 2002
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+            Report for the Calendar Year or Quarter Ended June 30, 2002
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+
+Address:  126 East 56th Street
+          New York, New York 10022
+
+13F File Number: 28-06391
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to  submit  it,  that all  information  contained  herein is true,  correct  and
+complete,  and  that it is  understood  that  all  required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/ Phillipe Laffont              New York, N.Y.                      8/12/02
+- -----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                   [Date]
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting manager
+     are reported in this report).
+
+[_]  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting managers(s).)
+
+[_]  13F COMBINATION  REPORT.  (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+<PAGE>
+
+                              Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       None
+
+Form 13F Information Table Entry Total:  59
+                                         --
+
+Form 13F Information Table Value Total: $94,040
+                                         ------
+                                       (thousands)
+
+List of Other Included Managers: None
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+[If there are no entries in this list, state "NONE" and omit the column headings
+and list entries.]
+<PAGE>
+
+<TABLE>
+                                                    FORM 13F INFORMATION TABLE
+
+
+<CAPTION>
+
+COLUMN 1                                     COLUMN  2      COLUMN 3  COLUMN 4            COLUMN 5  COLUMN 6 COLUMN 7   COLUMN 8
+
+                                                                         VALUE  SHRS OR    SH/ PUT/ INVEST   OTHER  VOTING AUTHORITY
+NAME OF ISSUER                            TITLE OF CLASS     CUSIP    (X$1000)  PRN AMT    PRN CALL DISCRE   MANAG  SOLE SHARED NONE
+
+<S>                                       <C>                <C>      <C>       <C>        <C> <C>  <C>      <C>   <C>   <C>    <C>
+ADVANCE PCS     CMN                       Common             00790K109   7,881     329,200             Sole  None     329,200
+AMDOCS LTD                                Ordinary           G02602103   1,080     143,000             Sole  None     143,000
+AMERICAN TOWER CORP     CMN CLASS A       Class A            29912201    1,070     310,239             Sole  None     310,239
+AOL TIME WARNER INC     CMN               Common             00184A105   3,824     259,960             Sole  None     259,960
+ARBITRON INC.           CMN               Common             03875Q108      95   2,964,000             Sole  None   2,964,000
+ARIBA INC               CMN               Common             04033V104   1,280     401,320             Sole  None     401,320
+AVANEX                  CMN               Common             05348W109     143      73,913             Sole  None      73,913
+BOOKS A MILLION                           Common             098570104      40      11,000             Sole  None      11,000
+CDW COMPUTER CENTRES INC     CMN          Common             125129106   2,668      57,000             Sole  None      57,000
+CENTILLIUM COMMUNICATIONS INC   CMN       Common             152319109     616      70,653             Sole  None      70,653
+CISCO SYSTEMS, INC              CMN       Common             17275R102   5,106     366,000             Sole  None     366,000
+COSINE COMMUNICATIONS INC   CMN           Common             221222102       5      10,870             Sole  None      10,870
+CREE      CMN                             Common             225447101   1,703     128,740             Sole  None     128,740
+DELL COMPUTER CORPORATION   CMN           Common             247025109   3,268     125,000             Sole  None     125,000
+DEUTSCHE TELEKOM                          Sponsored ADR      251566105   2,068     222,137             Sole  None     222,137
+DSL. NET INC                              Common             262506108      28      78,261             Sole  None      78,261
+ERICSSON L M TEL CO           CMN         ADR Class B SEK10  294821400   1,232     855,219             Sole  None     855,219
+ESS TECHNOLOGY INC             CMN        Common             269151106   2,206     125,779             Sole  None     125,779
+EXPEDIA INC            CMN CLASS A        Class A            302125109     208       3,500             Sole  None       3,500
+FALCONSTOR SOFTWARE INC       CMN         Common             306137100     423      99,999             Sole  None      99,999
+FREEMARKETS INC                CMN        Common             356602102     543      38,422             Sole  None      38,422
+GENESIS MICROCHIP INC DEL       CMN       Common             37184C103     265      31,827             Sole  None      31,827
+INFORMATICA CORP              CMN         Common             45666Q102   1,387     195,564             Sole  None     195,564
+INRANGE TECHNOLOGIES CORP     CMN         Class B            45769V206     173      36,522             Sole  None      36,522
+JB OXFORD HOLDINGS INC                    Common             466107109      13      13,000             Sole  None      13,000
+KOPIN CORP                                Common             500600101   1,358     205,689             Sole  None     205,689
+KT CORPORATION                            Sponsored ADR      48268K101   3,280     151,500             Sole  None     151,500
+LAMAR ADVERTISING CO    CMN CLASS A       Class A            512815101   1,674      45,000             Sole  None      45,000
+LEVEL 3 COMMUNICATIONS INC  CMN           Common             52729N100   2,155     730,510             Sole  None     730,510
+LINEAR TECHNOLOGY CORP        CMN         Common             535678106   2,011      64,000             Sole  None      64,000
+MAXIM INTEGRATED PRODUCTS INC CMN         Common             57772K101   3,028      79,000             Sole  None      79,000
+McAFEE COM CORP     CMN CLASS A           Class A            579062100   1,072      73,261             Sole  None      73,261
+MCDATA CORP           CMN CLASS A         Class A            580031201   5,633     639,400             Sole  None     639,400
+MCG CAPITAL CORP           CMN            Common             58047P107   5,849     350,000             Sole  None     350,000
+MICROSOFT CORP.                CMN        Common             594918104   6,285     114,900             Sole  None     114,900
+MOODYS CORP                  CMN          Common             615369105     995      20,000             Sole  None      20,000
+NETEGRITY INC             CMN             Common             64110P107     164      26,565             Sole  None      26,565
+NETSCREEN TECHNOLOGIES INC   CMN          Common             64117V107   1,014     110,473             Sole  None     110,473
+NETWORK APPLIANCE INC.   CMN              Common             64120L104   1,927     154,921             Sole  None     154,921
+NETWORKS ASSOCIATES INC.     CMN          Common             640938106   1,676      87,000             Sole  None      87,000
+NEXTEL COMMUNICATIONS CL A   CMN CLASS A  Common             65332V103     429     157,835             Sole  None     157,835
+NTL INCORPORATED (NEW)            CMN     Common             629407107      26     808,789             Sole  None     808,789
+OPLINK COMMUNICATIONS INC     CMN         Common             68375Q106      36      49,565             Sole  None      49,565
+PEGASUS COMMUNICATIONS CORP    CMN        Class A            705904100       7      10,000             Sole  None      10,000
+POLYCOM INC                               Common             73172K104     489      40,762             Sole  None      40,762
+PURCHASE PRO.COM    CMN                   Common             746144302       6      12,982             Sole  None      12,982
+RCN CORP                                  Common             749361101     323     236,435             Sole  None     236,435
+RED HAT, INC                     CMN      Common             756577102   1,823     310,552             Sole  None     310,552
+SECURE COMPUTING CORP                     Common             813705100   1,606     212,670             Sole  None     212,670
+SMARTFORCE PLC    ADR                     Sponsored ADR      83170A206     824     242,263             Sole  None     242,263
+SONUS NETWORKS INC      CMN               Common             835916107     279     138,088             Sole  None     138,088
+STORAGENETWORKS INC        CMN            Common             86211E103     136      68,914             Sole  None      68,914
+TICKETMASTER              CMN CLASS B     Class B            88633P203   1,497      80,000             Sole  None      80,000
+TMP WORLDWIDE INC         CMN             Common             872941109   1,892      88,000             Sole  None      88,000
+USA INTERACTIVE          CMN              Common             902984103   4,103     175,000             Sole  None     175,000
+VIACOM INC CL-B COMMON   CMN CLASSB       Class B            925524308   1,642      37,000             Sole  None      37,000
+WEBEX COMMUNICATIONS INC     CMN          Common             94767L109   3,299     207,484             Sole  None     207,484
+WIRE ONE TECHNOLOGIES INC                 Common             976521104      43      21,739             Sole  None      21,739
+ZIXIT CORPORATION             CMN         Common             98974P100     134      24,433             Sole  None      24,433
+                                                                        94,040  12,725,855
+</TABLE>
+
+02984.0001 #343183
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

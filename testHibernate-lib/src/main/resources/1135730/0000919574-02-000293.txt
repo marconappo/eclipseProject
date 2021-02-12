@@ -1,0 +1,330 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JnLbhzlgWFZqTiVxEGrXP8XIMfNZ4WFeccKQcRdY0+wkurdkhIob4T/D7kmeHs0b
+ m9+39VXwlrWUB8DSe/MWzw==
+
+<SEC-DOCUMENT>0000919574-02-000293.txt : 20020414
+<SEC-HEADER>0000919574-02-000293.hdr.sgml : 20020414
+ACCESSION NUMBER:		0000919574-02-000293
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20011231
+FILED AS OF DATE:		20020212
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		02537087
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>co02984001aa4.txt
+<TEXT>
+
+
+
+<PAGE>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+                            Form 13F
+
+                       Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31, 2001
+
+Check here if Amendment [   ]; Amendment Number:
+    This Amendment (Check only one.):  [   ] is a restatement.
+                                       [   ] adds new holdings
+                                             entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Coatue Management, LLC
+Address: 126 East 56th Street
+         New York, New York 10022
+
+Form 13F File Number: 28-06391
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct and complete, and
+that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Phillipe P. Laffont
+Title:   Investment Manager
+Phone:   (212) 715-5100
+
+Signature, Place, and Date of Signing:
+
+         /s/Phillipe Laffont     New York, N.Y.        2/7/02
+         _______________________ _____________________ _________
+              [Signature]           [City, State]        [Date]
+
+
+
+<PAGE>
+
+Report Type (Check only one.):
+
+[X ]     13F HOLDINGS REPORT.  (Check here if all holdings of
+         this reporting manager are reported in this report.)
+
+[  ]     13F NOTICE.  (Check here if no holdings reported are in
+         this report, and all holdings are reported by other
+         reporting manager(s).)
+
+[  ]     13F COMBINATION REPORT.  (Check here if a portion of the
+         holdings for this reporting manager are reported in this
+         report and a portion are reported by other reporting
+         manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+         Form 13F File Number     Name
+
+         28-
+         [Repeat as necessary.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                2
+
+
+
+<PAGE>
+
+                      Form 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:          None
+
+Form 13F Information Table Entry Total:     40
+
+Form 13F Information Table Value Total:     $153,000,303.90
+                                            [in thousands]
+
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file
+number(s) of all institutional investment managers with respect
+to which this report is filed, other than the manager filing this
+report.
+
+[If there are no entries in this list, state "NONE" and omit the
+column headings and list entries.]
+
+         No.       Form 13F File Number     Name
+
+                   28-
+
+         [Repeat as necessary.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                3
+
+
+
+<PAGE>
+
+<TABLE>
+                                                   Form 13F INFORMATION TABLE
+                                                        December 31, 2001
+<CAPTION>
+   COLUMN 1        COLUMN 2      COLUMN 3      COLUMN 4       COLUMN 5         COLUMN 6    COLUMN 7      COLUMN 8
+   ---------       --------      --------      --------       --------         ---------   --------      --------
+
+                    TITLE        CUSIP         MARKET    SHRS OR  SH/  PUT/  INVESTMENTS   OTHER      VOTING AUTHORITY
+NAME OF ISSUER     OF CLASS      NUMBER        VALUE     PRN AMT  PRN  CALL  DISCRETION    MANAGERS  SOLE  SHARED  NONE
+- --------------     --------      ------        ------    -------  ---  ----  -----------   --------  ----  ------  ----
+
+<s>                  <c>      <c>         <c>           <c>        <c>  <c>   <c>          <c>       <c>      <c>    <c>
+ACCENTURE LTD        Class A  G1150G111     6,452,724     239,700             Sole         None      Sole
+AKAMAI TECHNOLOGIES
+  INC                Common   00971T101     1,413,720     238,000             Sole         None      Sole
+AMDOCS LTD           Ordinary G02602103     7,177,861     211,300             Sole         None      Sole
+AOL TIME WARNER INC  Common   00184A105    12,198,000     380,000             Sole         None      Sole
+ARIBA INC            Common   04033V104     5,664,428     919,550             Sole         None      Sole
+AT&T CORP            Common   001957109     5,949,920     328,000             Sole         None      Sole
+AVANEX CORP          Common   05348W109     1,003,000     170,000             Sole         None      Sole
+CENTILLIUM
+  COMMUNICATIONS
+  INC                Common   152319109     1,017,870     129,500             Sole         None      Sole
+CHECK POINT
+  SOFTWARE TECH.
+  LTD                Ordinary M22465104     2,201,928      55,200             Sole         None      Sole
+CISCO SYSTEMS,
+  INC                Common   17275R102     7,397,935     408,500             Sole         None      Sole
+COMCAST CP
+  CL-A SPECIAL       Class A  200300200     3,643,200     101,200             Sole         None      Sole
+COREL CORP           Common   21868Q109    507,444.40     267,076             Sole         None      Sole
+DSL.NET INC          Common   262506108       226,800     180,000             Sole         None      Sole
+ECHOSTAR
+  COMMUNICATIONS
+  CORP               Class A  278762109     9,858,983     358,900             Sole         None      Sole
+INFORMATICA CORP     Common   45666Q102     5,595,056     385,600             Sole         None      Sole
+INRANGE TECHNOLOGIES
+  CORP               Class B  45769V206     1,037,400      84,000             Sole         None      Sole
+LEVEL 3
+  COMMUNICATIONS
+  INC                Common   52729N100     2,391,500     478,300             Sole         None      Sole
+LINEAR TECHNOLOGY
+  CORP               Common   535678106     4,196,800     107,500             Sole         None      Sole
+LOUDCLOUD, INC       Common   545735102       911,600     215,000             Sole         None      Sole
+MAXIM INTEGRATED
+  PRODUCTS INC       Common   57772K101     3,334,385      63,500             Sole         None      Sole
+MICROSOFT CORP.      Common   594918104     2,981,250      45,000             Sole         None      Sole
+NETWORK PLUS CORP    Common   64122D506       376,072     324,200             Sole         None      Sole
+NOKIA CORP SPON ADR  ADR      654902204     6,991,050     285,000             Sole         None      Sole
+
+
+
+
+                                4
+
+
+
+<PAGE>
+
+OPLINK COMMUNICATIONS
+  INC                Common   68375Q106       214,890     114,000             Sole         None      Sole
+ORACLE CORPORATION   Common   68389X105     7,181,891     520,050             Sole         None      Sole
+PMC-SIERRA INC       Common   69344F106     4,088,298     192,300             Sole         None      Sole
+RCN CORP             Common   749361101     1,310,296     447,200             Sole         None      Sole
+SAMSUNG ELECTRONICS
+  CO.                GDR      796050888     4,047,000      35,500             Sole         None      Sole
+SBC COMMUNICATIONS
+  INC                Common   78387G103     6,568,809     167,700             Sole         None      Sole
+SECURE COMPUTING
+  CORP               Common   813705100     2,938,650     143,000             Sole         None      Sole
+SONUS NETWORKS INC   Common   835916107     1,467,312     317,600             Sole         None      Sole
+SPRINT CORP
+  (PCS GRP)          Common   852061506     4,611,049     188,900             Sole         None      Sole
+STORAGENETWORKS
+  INC.               Common   86211E103       979,530     158,500             Sole         None      Sole
+TECH DATA CORP       CMN      878237106     5,414,328     125,100             Sole         None      Sole
+TERRA NETWORKS SA    American
+                     Depository
+                     Shares   88100W103     3,545,435     450,500             Sole         None      Sole
+TEXAS INSTRUMENTS
+  INC.                        882508104     3,136,000     112,000             Sole         None      Sole
+TRIQUINT
+  SEMICONDUCTOR
+  INC.               Common   89674K103     4,205,180     343,000             Sole         None      Sole
+VIACOM INC
+  CL-B COMMON        Class B  925524308     5,858,705     132,700             Sole         None      Sole
+WEBEX COMMUNICATIONS
+  INC                Common   94767L109     1,647,555      66,300             Sole         None      Sole
+XILINX
+  INCORPORATED       Common   983919101     4,256,450     109,000             Sole         None      Sole
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                5
+02984001.AA4
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

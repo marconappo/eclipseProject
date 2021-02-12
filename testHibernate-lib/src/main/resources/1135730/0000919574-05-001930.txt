@@ -1,0 +1,198 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QPKvUfvh9eZkESpix/swQ/qKCkFY/ar5W56RGjQtCKdp6ea5hlqBAOrDAYESgL3c
+ we34qajCUldnsS8Cy+/3Rw==
+
+<SEC-DOCUMENT>0000919574-05-001930.txt : 20050516
+<SEC-HEADER>0000919574-05-001930.hdr.sgml : 20050516
+<ACCEPTANCE-DATETIME>20050516121547
+ACCESSION NUMBER:		0000919574-05-001930
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050331
+FILED AS OF DATE:		20050516
+DATE AS OF CHANGE:		20050516
+EFFECTIVENESS DATE:		20050516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		05832453
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d571720_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+          Report for the Calendar Year or Quarter Ended March 31, 2005
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, L.L.C.
+
+Address:  126 East 56th Street
+          New York, NY 10022
+
+
+13F File Number: 28-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Phillipe P. Laffont
+Title:    Investment Manager
+Phone:    (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/ Phillipe Laffont               New York, NY                  5/16/05
+- -----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                 [Date]
+
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]  13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+     are reported in this report).
+
+[_]  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting managers(s).)
+
+[_]  13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+
+
+
+<PAGE>
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       3
+
+Form 13F Information Table Entry Total: 29
+
+Form 13F Information Table Value Total: $307,565
+                                       (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.       Form 13F File Number           Name
+
+1.        028-10522                      Coatue Capital, L.L.C.
+2.        028-10553                      Coatue Offshore Fund, Ltd.
+3.        028-10554                      Coatue Qualified Partners, L.P.
+- ----      ------------------             --------------------------------
+
+
+<PAGE>
+
+<TABLE>
+
+                                                                FORM 13F INFORMATION TABLE
+
+<CAPTION>
+
+COLUMN 1                        COLUMN  2         COLUMN 3     COLUMN 4         COLUMN 5        COLUMN 6   COLUMN 7     COLUMN 8
+
+                                TITLE                          VALUE     SHRS OR   SH/   PUT/  INVESTMT  OTHER     VOTING AUTHORITY
+NAME OF ISSUER                  OF CLASS          CUSIP       (X$1000)   PRN AMT   PRN   CALL  DISCRETN  MGRS  SOLE  SHARED    NONE
+- --------------                  --------          -----       --------   -------   ---   ----  --------  ----  ----  ------    ----
+<S>                             <C>               <C>          <C>       <C>       <C>   <C>   <C>       <C>   <C>   <C>        <C>
+AKAMAI TECHNOLOGIES INC         COM               00971T101     21,271   1,670,956             SHARED    1,2,3  0    1,670,956  0
+AMERICA MOVIL SA DE CV          SPONSORED ADR     02364W105     26,602     515,550             SHARED    1,2,3  0      515,550  0
+AMERICAN TOWER CORP.            CLASS A           029912201     20,779   1,139,826             SHARED    1,2,3  0    1,139,826  0
+APPLE COMPUTER INC              COM               037833100      4,584     110,000             SHARED    1,2,3  0      110,000  0
+ARIBA INC.                      COM NEW           04033V203        370      47,653             SHARED    1,2,3  0       47,653  0
+AVANEX CORP                     COM               05348W109         94      71,998             SHARED    1,2,3  0       71,998  0
+BOOKS A MILLION INC             COM               98570104         100      11,000             SHARED    1,2,3  0       11,000  0
+BOSTON COMMUNICATIONS GROUP     COM               100582105      2,711     380,770             SHARED    1,2,3  0      380,770  0
+BROADCOM CORP                   CLA               111320107      7,330     245,000             SHARED    1,2,3  0      245,000  0
+CENTILLIUM COMMUNICATIONS INC   COM               152319109      1,377      53,803             SHARED    1,2,3  0       53,803  0
+CROWN CASTLE INTL CORP          COM               228227104     13,775     857,723             SHARED    1,2,3  0      857,723  0
+DREAMWORKS ANIMATION SKG INC    CLA               26153C103     13,620     334,560             SHARED    1,2,3  0      334,560  0
+GLOBAL SIGNAL INC.              COM               37944Q103     11,180     373,167             SHARED    1,2,3  0      373,167  0
+GOOGLE INC                      CLA               38259P508     39,367     218,090             SHARED    1,2,3  0      218,090  0
+IPASS INC                       COM               46261V108      1,130     184,694             SHARED    1,2,3  0      184,694  0
+LA Z BOY INC                    COM               505336107      1,516     108,809             SHARED    1,2,3  0      108,809  0
+LEVEL 3 COMMUNICATIONS INC      COM               52729N100      1,662     806,814             SHARED    1,2,3  0      806,814  0
+MOBILE TELESYSTEMS OJSC         SPONSORED ADR     607409109      9,853     280,000             SHARED    1,2,3  0      280,000  0
+MONOLITHIC PWR SYS, INC         COM               609839105      4,829     546,832             SHARED    1,2,3  0      546,832  0
+NDS GROUP PLC                   SPONSORED ADR     628891103      7,286     209,778             SHARED    1,2,3  0      209,778  0
+NEOWARE SYS INC                 COM               64065P102      1,210     115,944             SHARED    1,2,3  0      115,944  0
+NETEASE.COM INC                 SPONSORED ADR     64110W102     47,221     979,480             SHARED    1,2,3  0      979,480  0
+NII HOLDINGS INC                CLA NEW           62913F201     16,752     291,331             SHARED    1,2,3  0      291,331  0
+OPLINK COMMUNICATIONS INC       COM               68375Q106         76      48,281             SHARED    1,2,3  0       48,281  0
+SECURE COMPUTING CORP           COM               813705100        452      52,738             SHARED    1,2,3  0       52,738  0
+SONUS NETWORK INC               COM               835916107        570     134,510             SHARED    1,2,3  0      134,510  0
+SPECTRASITE, INC                COM               84761M104     12,645     218,122             SHARED    1,2,3  0      218,122  0
+TELESYSTEM INTL WIRELESS INC    NEWCOM            879946606        281      18,415             SHARED    1,2,3  0       18,415  0
+TESSERA TECHNOLOGIES INC        COM               88164L100     38,922     900,345             SHARED    1,2,3  0      900,345  0
+                                                               307,565
+
+
+</TABLE>
+
+
+
+02984.0001 #571720
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

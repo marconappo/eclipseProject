@@ -1,0 +1,105 @@
+<xml> <!--?xml version="1.0" encoding="UTF-8"?--> 
+ <edgarsubmission xsi:schemalocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+  <headerdata> 
+   <submissiontype>
+    13F-HR
+   </submissiontype> 
+   <filerinfo> 
+    <livetestflag>
+     LIVE
+    </livetestflag> 
+    <flags> 
+     <confirmingcopyflag>
+      false
+     </confirmingcopyflag> 
+     <returncopyflag>
+      false
+     </returncopyflag> 
+     <overrideinternetflag>
+      false
+     </overrideinternetflag> 
+    </flags> 
+    <filer> 
+     <credentials> 
+      <cik>
+       0001541617
+      </cik> 
+      <ccc>
+       XXXXXXXX
+      </ccc> 
+     </credentials> 
+    </filer> 
+    <periodofreport>
+     09-30-2017
+    </periodofreport> 
+   </filerinfo> 
+  </headerdata> 
+  <formdata> 
+   <coverpage> 
+    <reportcalendarorquarter>
+     09-30-2017
+    </reportcalendarorquarter> 
+    <isamendment>
+     false
+    </isamendment> 
+    <filingmanager> 
+     <name>
+      Altimeter Capital Management, LP
+     </name> 
+     <address> <ns1:street1>
+       One International Place
+      </ns1:street1> <ns1:street2>
+       Suite 4610
+      </ns1:street2> <ns1:city>
+       Boston
+      </ns1:city> <ns1:stateorcountry>
+       MA
+      </ns1:stateorcountry> <ns1:zipcode>
+       02110
+      </ns1:zipcode> </address> 
+    </filingmanager> 
+    <reporttype>
+     13F HOLDINGS REPORT
+    </reporttype> 
+    <form13ffilenumber>
+     028-14752
+    </form13ffilenumber> 
+    <provideinfoforinstruction5>
+     N
+    </provideinfoforinstruction5> 
+   </coverpage> 
+   <signatureblock> 
+    <name>
+     John J. Kiernan III
+    </name> 
+    <title>Chief Financial Officer</title> 
+    <phone>
+     617-310-6180
+    </phone> 
+    <signature>
+     /s/ John J. Kiernan III
+    </signature> 
+    <city>
+     Boston
+    </city> 
+    <stateorcountry>
+     MA
+    </stateorcountry> 
+    <signaturedate>
+     11-14-2017
+    </signaturedate> 
+   </signatureblock> 
+   <summarypage> 
+    <otherincludedmanagerscount>
+     0
+    </otherincludedmanagerscount> 
+    <tableentrytotal>
+     22
+    </tableentrytotal> 
+    <tablevaluetotal>
+     2113817
+    </tablevaluetotal> 
+   </summarypage> 
+  </formdata> 
+ </edgarsubmission> 
+</xml>

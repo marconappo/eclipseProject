@@ -1,0 +1,103 @@
+<xml> <!--?xml version="1.0" encoding="UTF-8"?--> 
+ <edgarsubmission xsi:schemalocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+  <headerdata> 
+   <submissiontype>
+    13F-HR
+   </submissiontype> 
+   <filerinfo> 
+    <livetestflag>
+     LIVE
+    </livetestflag> 
+    <flags> 
+     <confirmingcopyflag>
+      false
+     </confirmingcopyflag> 
+     <returncopyflag>
+      false
+     </returncopyflag> 
+     <overrideinternetflag>
+      false
+     </overrideinternetflag> 
+    </flags> 
+    <filer> 
+     <credentials> 
+      <cik>
+       0001579984
+      </cik> 
+      <ccc>
+       XXXXXXXX
+      </ccc> 
+     </credentials> 
+    </filer> 
+    <periodofreport>
+     09-30-2017
+    </periodofreport> 
+   </filerinfo> 
+  </headerdata> 
+  <formdata> 
+   <coverpage> 
+    <reportcalendarorquarter>
+     09-30-2017
+    </reportcalendarorquarter> 
+    <isamendment>
+     false
+    </isamendment> 
+    <filingmanager> 
+     <name>
+      Ark Investment Management LLC
+     </name> 
+     <address> <ns1:street1>
+       155 West 19th Street, 5th Floor
+      </ns1:street1> <ns1:city>
+       New York
+      </ns1:city> <ns1:stateorcountry>
+       NY
+      </ns1:stateorcountry> <ns1:zipcode>
+       10011
+      </ns1:zipcode> </address> 
+    </filingmanager> 
+    <reporttype>
+     13F HOLDINGS REPORT
+    </reporttype> 
+    <form13ffilenumber>
+     028-18161
+    </form13ffilenumber> 
+    <provideinfoforinstruction5>
+     N
+    </provideinfoforinstruction5> 
+   </coverpage> 
+   <signatureblock> 
+    <name>
+     Kellen Carter
+    </name> 
+    <title>Chief Compliance Officer</title> 
+    <phone>
+     212-426-7040
+    </phone> 
+    <signature>
+     /s/ Kellen Carter
+    </signature> 
+    <city>
+     New York
+    </city> 
+    <stateorcountry>
+     NY
+    </stateorcountry> 
+    <signaturedate>
+     11-09-2017
+    </signaturedate> 
+   </signatureblock> 
+   <summarypage> 
+    <otherincludedmanagerscount>
+     0
+    </otherincludedmanagerscount> 
+    <tableentrytotal>
+     145
+    </tableentrytotal> 
+    <tablevaluetotal>
+     819306
+    </tablevaluetotal> 
+   </summarypage> 
+  </formdata> 
+ </edgarsubmission> 
+</xml>

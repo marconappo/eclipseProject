@@ -1,0 +1,35 @@
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>AXIS CAPITAL HOLDINGS LTD</nameOfIssuer>
+			<titleOfClass>SHS</titleOfClass>
+			<cusip>G0692U109</cusip>
+			<value>255</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>4438</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>N/A</otherManager>
+			<votingAuthority>
+				<Sole>4438</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>RENAISSANCERE HOLDINGS LTD</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>G7496G103</cusip>
+			<value>257</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1857</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>N/A</otherManager>
+			<votingAuthority>
+				<Sole>1857</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>

@@ -1,0 +1,103 @@
+<xml> <!--?xml version="1.0" encoding="UTF-8"?--> 
+ <edgarsubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common"> 
+  <headerdata> 
+   <submissiontype>
+    13F-HR
+   </submissiontype> 
+   <filerinfo> 
+    <livetestflag>
+     LIVE
+    </livetestflag> 
+    <flags> 
+     <confirmingcopyflag>
+      false
+     </confirmingcopyflag> 
+     <returncopyflag>
+      true
+     </returncopyflag> 
+     <overrideinternetflag>
+      false
+     </overrideinternetflag> 
+    </flags> 
+    <filer> 
+     <credentials> 
+      <cik>
+       0001697748
+      </cik> 
+      <ccc>
+       XXXXXXXX
+      </ccc> 
+     </credentials> 
+    </filer> 
+    <periodofreport>
+     12-31-2016
+    </periodofreport> 
+   </filerinfo> 
+  </headerdata> 
+  <formdata> 
+   <coverpage> 
+    <reportcalendarorquarter>
+     12-31-2016
+    </reportcalendarorquarter> 
+    <filingmanager> 
+     <name>
+      ARK Investment Management LLC
+     </name> 
+     <address> <com:street1>
+       155 WEST 19TH STREET, 5TH FLOOR
+      </com:street1> <com:city>
+       NEW YORK
+      </com:city> <com:stateorcountry>
+       NY
+      </com:stateorcountry> <com:zipcode>
+       10011
+      </com:zipcode> </address> 
+    </filingmanager> 
+    <reporttype>
+     13F HOLDINGS REPORT
+    </reporttype> 
+    <form13ffilenumber>
+     028-17768
+    </form13ffilenumber> 
+    <provideinfoforinstruction5>
+     N
+    </provideinfoforinstruction5> 
+   </coverpage> 
+   <signatureblock> 
+    <name>
+     Kellen Carter
+    </name> 
+    <title>Chief Compliance Officer</title> 
+    <phone>
+     212-426-7040
+    </phone> 
+    <signature>
+     /s/Kellen Carter
+    </signature> 
+    <city>
+     New York
+    </city> 
+    <stateorcountry>
+     NY
+    </stateorcountry> 
+    <signaturedate>
+     02-13-2017
+    </signaturedate> 
+   </signatureblock> 
+   <summarypage> 
+    <otherincludedmanagerscount>
+     0
+    </otherincludedmanagerscount> 
+    <tableentrytotal>
+     102
+    </tableentrytotal> 
+    <tablevaluetotal>
+     274891
+    </tablevaluetotal> 
+    <isconfidentialomitted>
+     false
+    </isconfidentialomitted> 
+   </summarypage> 
+  </formdata> 
+ </edgarsubmission> 
+</xml>

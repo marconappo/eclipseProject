@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001546927-12-000051.txt : 20120814
+<SEC-HEADER>0001546927-12-000051.hdr.sgml : 20120814
+<ACCEPTANCE-DATETIME>20120814094831
+ACCESSION NUMBER:		0001546927-12-000051
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120814
+DATE AS OF CHANGE:		20120814
+EFFECTIVENESS DATE:		20120814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Altimeter Capital Management, LLC
+		CENTRAL INDEX KEY:			0001541617
+		IRS NUMBER:				263539535
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14752
+		FILM NUMBER:		121029896
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE INTERNATIONAL PLACE
+		STREET 2:		SUITE 2400
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		617-310-6142
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INTERNATIONAL PLACE
+		STREET 2:		SUITE 2400
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>altimeter6301213fv2.txt
+<TEXT>
+
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   Form 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:    June 30, 2012
+
+Check here if Amendment  [_] Amendment Number:
+This Amendment (Check only one.):                 [_] is a restatement.
+                                                  [_] adds new holdings
+                                                  entries.
+
+Institutional Investment Manager Filing this Report:
+
+     Name:       Altimeter Capital Management, LLC
+     Address:    One International Place
+                 Suite 2400
+                 Boston, MA 02110
+
+13F File Number: 028-14752
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+     Name:       John J. Kiernan III
+     Title:      Chief Compliance Officer
+     Phone:      617-340-6142
+
+     Signature, Place, and Date of Signing:
+     /s/ John J. Kiernan                Boston,                  August 14,
+     III                                Massachusetts            2012
+     [Signature]                        [City, State]            [Date]
+
+Report Type (Check only one.):
+
+     [X] 13F Holdings Report, (Check here if all holdings of this reporting
+     manager are reported in this report.)
+     [_] 13F Notice. (Check here if no holdings reported are in this report,
+     and all holdings are reported by other reporting manager(s).)
+     [_] 13F Combination Report. (Check here if a portion of the holdings for
+     this reporting manager are reported in this report and a portion
+     are reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+     Form 13F File Number               Name
+
+
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:      0
+
+Form 13F Information Table Entry Total: 28
+
+Form 13F Information Table Value Total: 254,388
+                                            (thousands)
+
+List of Other Included Managers:
+
+     Provide a numbered list of the name(s) and Form 13F file number(s) of all
+     institutional managers with respect to which this report is filed, other
+     than the manager filing this report.
+
+     Form 13F File Number               Names
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                                     Form 13F Information Table
+
+          Column 1               Column 2    Column 3  Column 4      Column 5       Column 6  Column 7           Column 8
+----------------------------- -------------- --------- -------- ------------------ ---------- -------- -----------------------------
+                                                        Value    Shares/  Sh/ Put/ Investment  Other         Voting Authority
+       Name of Issuer         Title of Class   CUSIP   (x$1000)  Prn Amt  Prn Call Discretion Managers   Sole     Shared     None
+----------------------------- -------------- --------- -------- --------- --- ---- ---------- -------- --------- --------- ---------
+<S>                           <C>            <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>       <C>
+AGILENT TECHNOLOGIES INC      COM            00846U101    2,060    52,500 SH          Sole                52,500
+AMAZON.COM INC                COM            023135106    3,425    15,000 SH          Sole                15,000
+AMERISTAR CASINOS INC         COM            03070Q101    5,331   300,000 SH          Sole               300,000
+ATMEL CORP                    COM            049513104      670   100,000 SH          Sole               100,000
+AVIS BUDGET GROUP INC         COM            053774105   20,793 1,367,966 SH          Sole             1,367,966
+CALLIDUS SOFTWARE INC         COM            13123E500      602   120,947 SH          Sole               120,947
+CARBONITE INC                 COM            141337105      626    70,000 SH          Sole                70,000
+DELTA AIR LINES INC           COM            247361702   56,933 5,199,357 SH          Sole             5,199,357
+ELONG INC                     SPONSORED ADR  290138205      694    61,226 SH          Sole                61,226
+EQUINIX INC                   COM            29444U502    1,809    10,300 SH          Sole                10,300
+F5 NETWORKS INC               COM            315616102      996    10,000 SH          Sole                10,000
+HERTZ GLOBAL HOLDINGS INC     COM            42805T105   18,399 1,437,411 SH          Sole             1,437,411
+INTERXION HOLDING N.V         SHS            N47279109      453    25,000 SH          Sole                25,000
+LINKEDIN CORP                 COM CL A       53578A108      531     5,000 SH          Sole                 5,000
+MGM RESORTS INTERNATIONAL     COM            552953101    4,464   400,000 SH          Sole               400,000
+NETFLIX INC                   COM            64110L106    6,162    90,000 SH          Sole                90,000
+OCZ TECHNOLOGY GROUP INC      COM            67086E303    1,537   290,000 SH          Sole               290,000
+ORBITZ WORLDWIDE INC          COM            68557K109      405   111,000 SH          Sole               111,000
+PENN NATIONAL GAMING INC      COM            707569109    4,768   106,920 SH          Sole               106,920
+PRICELINE.COM INC             COM            741503403   12,028    18,100 SH          Sole                18,100
+PROSHARES ULTRASHORT          ETF            74347X245      215     5,500 SH          Sole                 5,500
+SEMICONDUCTOR
+QUALCOMM INC                  COM            747525103    2,227    40,000 SH          Sole                40,000
+REALPAGE INC                  COM            75606N109    1,860    80,300 SH          Sole                80,300
+ROYAL CARIBBEAN CRUISES LTD   COM            V7780T103   37,580 1,443,700 SH          Sole             1,443,700
+SHUTTERFLY INC                COM            82568P304    3,373   109,900 SH          Sole               109,900
+UNITED CONTINENTAL HOLDINGS   COM            910047109   35,438 1,406,553 SH          Sole             1,406,553
+US AIRWAYS GROUP INC          COM            90341W108   23,996 1,800,128 SH          Sole             1,800,128
+WYNDHAM WORLDWIDE CORP        COM            98310W108    7,014   133,000 SH          Sole               133,000
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,200 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AEte4pLLjQicwTEG2hNLW34luQ5jMPSP/2ibslfcCwaiig8wTY8IdyFnqPZoprP4
+ NJ5vhb9Yxc3b28n2eytRAQ==
+
+<SEC-DOCUMENT>0000919574-10-003469.txt : 20100517
+<SEC-HEADER>0000919574-10-003469.hdr.sgml : 20100517
+<ACCEPTANCE-DATETIME>20100517115644
+ACCESSION NUMBER:		0000919574-10-003469
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100331
+FILED AS OF DATE:		20100517
+DATE AS OF CHANGE:		20100517
+EFFECTIVENESS DATE:		20100517
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		10836636
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1095650_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+Report for the Calendar Year or Quarter Ended:     March 31, 2010
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+Address:  126 East 56th Street
+          New York, New York 10022
+
+
+13F File Number: 028-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Philippe Laffont
+Title:   Managing Member
+Phone:   (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+/s/Philippe Laffont               New York, NY                May 17, 2010
+- -----------------------     --------------------------    ----------------------
+     [Signature]                 [City, State]                   [Date]
+
+
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+
+<PAGE>
+
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         1
+
+Form 13F Information Table Entry Total:    31
+
+Form 13F Information Table Value Total:    $2,057,115
+                                           (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+No.        Form 13F File Number      Name
+- ----       -------------------       ------------------------------
+
+1.         028-12788                 Coatue Offshore Master Fund, Ltd.
+
+
+<PAGE>
+
+<TABLE>
+
+                                           FORM 13F INFORMATION TABLE
+                                             COATUE MANAGEMENT, LLC
+                                                 March 31, 2010
+
+<CAPTION>
+
+
+COLUMN 1                      COLUMN  2       COLUMN 3     COLUMN 4      COLUMN 5       COLUMN 6    COLUMN 7         COLUMN 8
+
+                              TITLE                       VALUE     SHRS OR   SH/ PUT/  INVESTMENT  OTHER        VOTING AUTHORITY
+NAME OF ISSUER                OF CLASS        CUSIP       (X$1000)  PRN AMT   PRN CALL  DISCRETION  MANAGERS  SOLE       SHARED NONE
+- --------------                ---------       ------      --------- --------  --- ----- ----------- --------- -----      ------ ----
+<S>                           <C>             <C>         <C>       <C>       <C>       <C>         <C>       <C>        <C>    <C>
+ACME PACKET INC               COM             004764106     1,928     100,000 SH        DEFINED     1           100,000  0      0
+AKAMAI TECHNOLOGIES INC       COM             00971T101    12,489     397,484 SH        DEFINED     1           397,484  0      0
+AMAZON COM INC                COM             023135106   233,764   1,721,766 SH        DEFINED     1         1,721,766  0      0
+AMEDISYS INC                  COM             023436108    24,081     436,091 SH        DEFINED     1           436,091  0      0
+AMERICAN SUPERCONDUCTOR CORP  COM             030111108     9,863     341,267 SH        DEFINED     1           341,267  0      0
+AMERICAN TOWER CORP           CL A            029912201    71,800   1,685,054 SH        DEFINED     1         1,685,054  0      0
+APPLE INC                     COM             037833100   269,918   1,148,586 SH        DEFINED     1         1,148,586  0      0
+BAIDU INC                     SPON ADR REP A  056752108   108,184     181,213 SH        DEFINED     1           181,213  0      0
+CIENA CORP                    COM NEW         171779309    37,057   2,428,379 SH        DEFINED     1         2,428,379  0      0
+CITRIX SYS INC                COM             177376100   140,348   2,956,567 SH        DEFINED     1         2,956,567  0      0
+CROWN CASTLE INTL CORP        COM             228227104   116,400   3,044,720 SH        DEFINED     1         3,044,720  0      0
+DIRECTV                       COM CL A        25490A101    24,338     719,839 SH        DEFINED     1           719,839  0      0
+EBAY INC                      COM             278642103    13,938     516,858 SH        DEFINED     1           516,858  0      0
+EQUINIX INC                   COM NEW         29444U502   112,318   1,153,868 SH        DEFINED     1         1,153,868  0      0
+F5 NETWORKS INC               COM             315616102   199,463   3,236,454 SH        DEFINED     1         3,236,454  0      0
+GOOGLE INC                    CL A            38259P508   183,915     324,297 SH        DEFINED     1           324,297  0      0
+INTERNATIONAL RECTIFIER CORP  COM             460254105    47,143   2,058,665 SH        DEFINED     1         2,058,665  0      0
+JA SOLAR HOLDINGS CO LTD      SPON ADR        466090107     6,431   1,150,489 SH        DEFINED     1         1,150,489  0      0
+JUNIPER NETWORKS INC          COM             48203R104    14,358     467,993 SH        DEFINED     1           467,993  0      0
+LAS VEGAS SANDS CORP          COM             517834107    14,088     666,115 SH        DEFINED     1           666,115  0      0
+NETLOGIC MICROSYSTEMS INC     COM             64118B100     6,389     217,095 SH        DEFINED     1           217,095  0      0
+NUTRI SYS INC NEW             COM             67069D108    16,194     908,747 SH        DEFINED     1           908,747  0      0
+POPULAR INC                   COM             733174106    19,053   6,547,342 SH        DEFINED     1         6,547,342  0      0
+RESEARCH IN MOTION LTD        COM             760975102   124,750   1,686,495 SH        DEFINED     1         1,686,495  0      0
+SBA COMMUNICATIONS CORP       COM             78388J106    51,011   1,414,226 SH        DEFINED     1         1,414,226  0      0
+STEC INC                      COM             784774101    49,728   4,150,954 SH        DEFINED     1         4,150,954  0      0
+SUNTECH PWR HLDGS CO LTD      ADR             86800C104    12,747     909,224 SH        DEFINED     1           909,224  0      0
+SYNAPTICS INC                 COM             87157D109    35,457   1,284,206 SH        DEFINED     1         1,284,206  0      0
+TECHTARGET INC                COM             87874R100     1,931     369,258 SH        DEFINED     1           369,258  0      0
+TRINA SOLAR LIMITED           SPON ADR        89628E104    12,693     520,010 SH        DEFINED     1           520,010  0      0
+VISA INC                      COM CL A        92826C839    85,338     937,472 SH        DEFINED     1           937,472  0      0
+
+
+</TABLE>
+
+SK 02984 0008 1095650
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

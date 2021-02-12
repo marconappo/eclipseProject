@@ -1,0 +1,188 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SBd7T+vpkNgOUx+T/ozFo1jlQy85VD2xUVrQ6lEhbnRuJmnAO5UoA8X6fJ0eLOKj
+ WGxM0yHvB0HT/TdD/kCUyw==
+
+<SEC-DOCUMENT>0000919574-09-010493.txt : 20090515
+<SEC-HEADER>0000919574-09-010493.hdr.sgml : 20090515
+<ACCEPTANCE-DATETIME>20090514190347
+ACCESSION NUMBER:		0000919574-09-010493
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090331
+FILED AS OF DATE:		20090515
+DATE AS OF CHANGE:		20090514
+EFFECTIVENESS DATE:		20090515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		09828367
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d988532_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+Report for the Calendar Year or Quarter Ended:                March 31, 2009
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+Address:  126 East 56th Street
+          New York, New York 10022
+
+
+13F File Number: 028-06391
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Philippe Laffont
+Title:   Managing Member
+Phone:   (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/Philippe Laffont               New York, NY                 May 15, 2009
+- -----------------------     --------------------------    ----------------------
+     [Signature]                 [City, State]                    [Date]
+
+
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+
+<PAGE>
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:          1
+
+Form 13F Information Table Entry Total:     19
+
+Form 13F Information Table Value Total:     $677,303
+                                            (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+No.        Form 13F File Number       Name
+- ----       --------------------       ---------------------------------
+1.         028-12788                  Coatue Offshore Master Fund, Ltd.
+
+
+
+<PAGE>
+
+<TABLE>
+                                                      FORM 13F INFORMATION TABLE
+                                                        COATUE MANAGEMENT, LLC
+                                                            MARCH 31, 2009
+
+<CAPTION>
+COLUMN 1                         COLUMN  2     COLUMN 3   COLUMN 4       COLUMN 5         COLUMN 6      COLUMN 7      COLUMN 8
+                                                           VALUE     SHRS OR  SH/ PUT/   INVESTMENT      OTHER    VOTING AUTHORITY
+NAME OF ISSUER                TITLE OF CLASS    CUSIP     (X$1000)   PRN AMT  PRN CALL   DISCRETION     MANAGERS  SOLE  SHARED  NONE
+- --------------                --------------  ---------  --------- ---------  --- ---- ---------------- --------  ----  ------  ----
+<S>                           <C>             <C>        <C>       <C>        <C> <C>  <C>              <C>    <C>         <C>   <C>
+AMERICAN SUPERCONDUCTOR CORP  COM             030111108   11,556     667,567   SH      Shared - Defined   1      667,567   0      0
+BAIDU INC                     SPON ADR REP A  056752108   96,120     544,281   SH      Shared - Defined   1      544,281   0      0
+BANKRATE INC                  COM             06646V108   30,754   1,232,642   SH      Shared - Defined   1    1,232,642   0      0
+CITRIX SYS INC                COM             177376100   55,684   2,459,540   SH      Shared - Defined   1    2,459,540   0      0
+EASTMAN KODAK CO              COM             277461109   10,540   2,773,678   SH      Shared - Defined   1    2,773,678   0      0
+E M C CORP MASS               COM             268648102   18,633   1,634,510   SH      Shared - Defined   1    1,634,510   0      0
+LEVEL 3 COMMUNICATIONS INC    COM             52729N100    2,737   2,975,450   SH      Shared - Defined   1    2,975,450   0      0
+NETAPP INC                    COM             64110D104   19,117   1,288,200   SH      Shared - Defined   1    1,288,200   0      0
+NETEASE COM INC               SPONSORED ADR   64110W102   40,966   1,525,751   SH      Shared - Defined   1    1,525,751   0      0
+NUTRI SYS INC NEW             COM             67069D108    3,211     225,000   SH      Shared - Defined   1      225,000   0      0
+RAYMOND JAMES FINANCIAL INC   COM             754730109    2,803     142,300   SH      Shared - Defined   1      142,300   0      0
+SOHU COM INC                  COM             83408W103  115,182   2,788,226   SH      Shared - Defined   1    2,788,226   0      0
+SYNAPTICS INC                 COM             87157D109   16,056     600,000   SH      Shared - Defined   1      600,000   0      0
+SYNOPSYS INC                  COM             871607107   36,727   1,771,700   SH      Shared - Defined   1    1,771,700   0      0
+TAIWAN SEMICONDUCTOR MFG LTD  SPONSORED ADR   874039100   47,665   5,325,705   SH      Shared - Defined   1    5,325,705   0      0
+TD AMERITRADE HLDG CORP       COM             87236Y108   57,694   4,177,687   SH      Shared - Defined   1    4,177,687   0      0
+TECHTARGET INC                COM             87874R100    2,063     859,544   SH      Shared - Defined   1      859,544   0      0
+TEXAS INSTRS INC              COM             882508104   57,599   3,488,753   SH      Shared - Defined   1    3,488,753   0      0
+VISA INC                      COM CL A        92826C839   52,194     938,747   SH      Shared - Defined   1      938,747   0      0
+</TABLE>
+
+
+
+
+
+
+
+SK 02984 0008 988532
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

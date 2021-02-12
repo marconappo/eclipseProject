@@ -1,0 +1,196 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PbY02OAvaZd9KPJXn+IyvfmgkvhfVA9rnCgTutdqomq8YScz/Tx48OU417N/aM8E
+ IlYcXGzavM/8uDpH9WRYww==
+
+<SEC-DOCUMENT>0000919574-03-002278.txt : 20031114
+<SEC-HEADER>0000919574-03-002278.hdr.sgml : 20031114
+<ACCEPTANCE-DATETIME>20031113185247
+ACCESSION NUMBER:		0000919574-03-002278
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030930
+FILED AS OF DATE:		20031114
+EFFECTIVENESS DATE:		20031114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		03999848
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d441919_13-f.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+            Report for the Calendar Year or Quarter Ended September 30, 2003
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, L.L.C.
+
+Address:  126 East 56th Street
+          New York, NY 10022
+
+
+13F File Number: 28-06391
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to  submit  it,  that all  information  contained  herein is true,  correct  and
+complete,  and  that it is  understood  that  all  required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/ Phillipe Laffont               New York, NY                   11/14/03
+- -----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                   [Date]
+
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+[If there are no entries in this list, omit this section.]
+
+<PAGE>
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       3
+
+Form 13F Information Table Entry Total:  28
+
+Form 13F Information Table Value Total: $244,638
+                                       (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.        Form 13F File Number                 Name
+
+1.                                              Coatue Capital, L.L.C.
+2.                                              Coatue Offshore Fund, Ltd.
+3.                                              Coatue Qualified Partners, L.P.
+- ----          -------------------               ------------------------------
+
+
+<PAGE>
+
+                        FORM 13F INFORMATION TABLE
+
+
+<TABLE>
+
+                                                      COATUE MANAGEMENT LLC
+                                                    Form 13F Information Table
+<CAPTION>
+COLUMN 1                            COLUMN  2      COLUMN 3     COLUMN 4    COLUMN 5        COLUMN 6   COLUMN 7      COLUMN 8
+
+                                                               VALUE             SH/ PUT/   INVESTMENT  OTHER     VOTING AUTHORITY
+NAME OF ISSUER                     TITLE OF CLASS      CUSIP   (X$1000) SHARES   PRN CALL   DISCRETION  MANAGERS  SOLE  SHARED  NONE
+
+<S>                                  <C>             <C>       <C>      <C>       <C> <C>     <C>        <C>       <C> <C>
+AMDOCS LTD                           ORD             G02602103   4,906    261,000 SH          Shared     1, 2, 3   0     261,000  0
+AMERITRADE HLDG CORP. NEW            Common          03074K100  17,560  1,535,000 SH          Shared     1, 2, 3   0   1,535,000  0
+AVANEX CORP                          Common          05348W109     349     71,998 SH          Shared     1, 2, 3   0      71,998  0
+BOOKS-A-MILLION INC                  Common          098570104      45     11,000 SH          Shared     1, 2, 3   0      11,000  0
+BOSTON COMMUNICATIONS GROUP          Common          100582105   5,547    554,755 SH          Shared     1, 2, 3   0     554,755  0
+CAREER EDUCATION CORP                Common          141665109  14,944    329,838 SH          Shared     1, 2, 3   0     329,838  0
+CENTILLIUM COMMUNICATIONS INC        Common          152319109     486     68,822 SH          Shared     1, 2, 3   0      68,822  0
+CLEAR CHANNEL COMMUNICATIONS         Common          184502102   1,570     41,000 SH          Shared     1, 2, 3   0      41,000  0
+CREE INC                             Common          225447101   3,566    192,583 SH          Shared     1, 2, 3   0     192,583  0
+DSL.NET INC                          Common          262506108      41     76,233 SH          Shared     1, 2, 3   0      76,233  0
+DUN & BRADSTREET CORP DEL NEW        Common          26483E100  15,357    369,700 SH          Shared     1, 2, 3   0     369,700  0
+EBAY INC                             Common          278642103  18,827    351,000 SH          Shared     1, 2, 3   0    351,000   0
+FREEMARKETS INC                      Common          356602102     988    127,076 SH          Shared     1, 2, 3   0     127,076  0
+HOMESTORE INC                        Common          437852106   9,891  3,583,816 SH          Shared     1, 2, 3   0   3,583,816  0
+MIDWAY GAMES INC                     Common          598148104   1,172    396,040 SH          Shared     1, 2, 3   0     396,040  0
+NEOFORMA.COM INC                     Common          640475505   6,086    433,223 SH          Shared     1, 2, 3   0     433,223  0
+NETEASE.COM INC                      Sponsored ADR   64110W102  24,578    440,000 SH          Shared     1, 2, 3   0     440,000  0
+OPLINK COMMUNICATIONS INC            Common          68375Q106     122     48,281 SH          Shared     1, 2, 3   0      48,281  0
+PRICELINE.COM INC                    Common          741503403  35,533  1,223,610 SH          Shared     1, 2, 3   0   1,223,610  0
+R.H. DONNELLEY CORP                  Common          74955W307  28,606    707,900 SH          Shared     1, 2, 3   0     707,900  0
+RCN CORP                             Common          749361101     672    365,264 SH          Shared     1, 2, 3   0     365,264  0
+SCANSOFT INC                         Common          80603P107   1,968    468,747 SH          Shared     1, 2, 3   0     468,747  0
+SCHOLASTIC CORP                      Common          807066105   1,457     50,610 SH          Shared     1, 2, 3   0      50,610  0
+SKILLSOFT PLC                        Sponsored ADR   830928107   1,801    241,769 SH          Shared     1, 2, 3   0     241,769  0
+SONUS NETWORKS INC                   Common          835916107     932    134,510 SH          Shared     1, 2, 3   0     134,510  0
+WEBEX COMMUNICATIONS INC             Common          94767L109  24,596  1,302,805 SH          Shared     1, 2, 3   0   1,302,805  0
+WEBSENSE INC                         Common          947684106  22,484  1,051,662 SH          Shared     1, 2, 3   0   1,051,662  0
+ZIX CORP                             Common          98974P100     554     68,469 SH          Shared     1, 2, 3   0      68,469  0
+                                                      Total:  244,638
+</TABLE>
+
+
+
+02984.0001 #441919
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

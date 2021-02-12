@@ -1,0 +1,199 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GTLhcEDGaLf9HD0+SCfaYYYVi8c5vAihKwxDK7sBUbNAF+YsbBTIoncXxbNKjlaB
+ //30QMIklB6ABQS33LA1gA==
+
+<SEC-DOCUMENT>0000919574-03-001554.txt : 20030813
+<SEC-HEADER>0000919574-03-001554.hdr.sgml : 20030813
+<ACCEPTANCE-DATETIME>20030813092618
+ACCESSION NUMBER:		0000919574-03-001554
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030630
+FILED AS OF DATE:		20030813
+EFFECTIVENESS DATE:		20030813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		03839149
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d422510_13-f.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+           Report for the Calendar Year or Quarter Ended June 30, 2003
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+
+Address:  126 East 56th Street
+          New York, NY 10022
+
+
+13F File Number: 28-06391
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to  submit  it,  that all  information  contained  herein is true,  correct  and
+complete,  and  that it is  understood  that  all  required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Phillipe P. Laffont
+Title:  Investment Manager
+Phone:  (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/ Phillipe Laffont               New York, NY                   08/12/03
+- -----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                   [Date]
+
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+[If there are no entries in this list, omit this section.]
+
+<PAGE>
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       NONE
+
+Form 13F Information Table Entry Total:  42
+
+Form 13F Information Table Value Total: $268,934
+                                       (thousands)
+
+
+List of Other Included Managers: None
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+[If there are no entries in this list, state "NONE" and omit the column headings
+and list entries.]
+
+<PAGE>
+
+                        FORM 13F INFORMATION TABLE
+
+
+<TABLE>
+<CAPTION>
+COLUMN 1                    COLUMN  2        COLUMN 3     COLUMN 4          COLUMN 5      COLUMN 6 COLUMN 7            COLUMN 8
+                              Title                       Market
+                                of                         Value                Sh/ Put/   Invest   Other        Voting Authority
+Name of Issuer                Class          Cusip        (x1000)      Shares   Pm  Call  Discretn Managers    Sole    Shared  None
+<S>                           <C>            <C>          <C>        <C>         <C> <C>    <C>       <C>     <C>         <C>   <C>
+AMERITRADE HLDG CORP.         Common         03074K100     21,090    2,850,000   SH         Sole      None    2,850,000   0     0
+ARBITRON INC.                 Common         03875Q108      6,369      178,400   SH         Sole      None      178,400   0     0
+AVANEX                        Common         05348W109        284       71,998   SH         Sole      None       71,998   0     0
+AVID TECHNOLOGY INC           Common         05367P100      8,242      233,300   SH         Sole      None      233,300   0     0
+BOOKS A MILLION INC           Common         098570104         30       11,000   SH         Sole      None       11,000   0     0
+CAREER EDUCATION CENTERS INC  Common         141665109      7,166      104,919   SH         Sole      None      104,919   0     0
+CENTILLIUM COMMUNICATIONS INC Common         152319109        674       68,822   SH         Sole      None       68,822   0     0
+CHOICEPOINT INC               Common         170388102      5,389      156,100   SH         Sole      None      156,100   0     0
+CINCINNATI BELL INC           Common         171871106     14,405    2,150,000   SH         Sole      None    2,150,000   0     0
+CREE RESEARCH INC             Common         225447101     13,416      825,599   SH         Sole      None      825,599   0     0
+DSL.NET INC                   Common         262506108         40       76,233   SH         Sole      None       76,233   0     0
+DUN & BRADSTREET CORP DEL NEW Common         26483E100     13,551      329,700   SH         Sole      None      329,700   0     0
+ELECTRONIC ARTS               Common         285512109     14,780      200,000   SH         Sole      None      200,000   0     0
+ERICSSON (LM) TEL CO          ADR B SEK 10   294821608        886       83,305   SH         Sole      None       83,305   0     0
+EXPEDIA INC                   Class A        302125109     10,660      140,000   SH         Sole      None      140,000   0     0
+FREEMARKETS, INC              Common         356602102        883      127,076   SH         Sole      None      127,076   0     0
+INTUIT                        Common         461202103      5,575      125,000   SH         Sole      None      125,000   0     0
+KOPIN CORP                    Common         500600101      1,062      172,950   SH         Sole      None      172,950   0     0
+LEXAR MEDIA INC               Common         52886P104      1,686      178,200   SH         Sole      None      178,200   0     0
+MIDWAY GAMES INC              Common         598148104        527      145,100   SH         Sole      None      145,100   0     0
+MONSTER WORLDWIDE INC         Common         611742107      4,933      250,000   SH         Sole      None      250,000   0     0
+NEOFORMA INC                  Common         640475505      7,732      709,353   SH         Sole      None      709,353   0     0
+NEOWARE SYSTEMS INC           Common         64065P102      6,494      426,945   SH         Sole      None      426,945   0     0
+NETFLIX COM INC               Common         64110L106      3,705      145,000   SH         Sole      None      145,000   0     0
+NETSCREEN TECHNOLOGIES INC    Common         64117V107      2,687      120,500   SH         Sole      None      120,500   0     0
+OMNIVISION TECHNOLOGIES INC   Common         682128103     12,727      408,845   SH         Sole      None      408,845   0     0
+OPLINK COMMUNICATIONS INC     Common         68375Q106         86       48,281   SH         Sole      None       48,281   0     0
+OVERTURE SVCS INC             Common         69039R100     12,872      710,000   SH         Sole      None      710,000   0     0
+PRICELINE.COM                 Common         741503106     15,394      689,700   SH         Sole      None      689,700   0     0
+R.H. DONNELLEY CORP. (NEW)    Common         74955W307     23,082      632,900   SH         Sole      None      632,900   0     0
+RCN CORP                      Common         749361101        884      446,304   SH         Sole      None      446,304   0     0
+SANDISK CORP                  Common         80004C101      5,071      125,000   SH         Sole      None      125,000   0     0
+SCANSOFT INC                  Common         80603P107      2,550      468,747   SH         Sole      None      468,747   0     0
+SCHOLASTIC CORPORATION        Common         807066105      2,772       93,086   SH         Sole      None       93,086   0     0
+SINA.COM                      ORD            G81477104      3,038      150,000   SH         Sole      None      150,000   0     0
+SKILLSOFT PUBLIC LTD CO       Sponsored ADR  830928107      1,221      241,769   SH         Sole      None      241,769   0     0
+SOHU.COM INC                  Common         83408W103      3,060       90,000   SH         Sole      None       90,000   0     0
+SONUS NETWORKS INC            Common         835916107        651      134,510   SH         Sole      None      134,510   0     0
+STORAGE NETWORKS INC          Common         86211E103         93       67,128   SH         Sole      None       67,128   0     0
+WEBEX COMMUNICATIONS INC      Common         94767L109     15,515    1,117,805   SH         Sole      None    1,117,805   0     0
+WEBSENSE INC.                 Common         947684106     16,480    1,051,662   SH         Sole      None    1,051,662   0     0
+ZIX CORPORATION               Common         98974P100      1,173      311,211   SH         Sole      None      311,211   0     0
+                                                Total:    268,934
+
+</TABLE>
+
+02984.0001 #422510
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

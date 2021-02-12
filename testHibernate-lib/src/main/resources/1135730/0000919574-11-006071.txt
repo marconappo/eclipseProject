@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0000919574-11-006071.txt : 20111114
+<SEC-HEADER>0000919574-11-006071.hdr.sgml : 20111111
+<ACCEPTANCE-DATETIME>20111114095852
+ACCESSION NUMBER:		0000919574-11-006071
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110930
+FILED AS OF DATE:		20111114
+DATE AS OF CHANGE:		20111114
+EFFECTIVENESS DATE:		20111114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		111198490
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1237306_13f-hr.txt
+<TEXT>
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F Cover Page
+
+
+Report for the Calendar Year or Quarter Ended:     September 30, 2011
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+Address:  9 West 57th Street
+          New York, New York 10019
+
+
+13F File Number: 028-06391
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Philippe Laffont
+Title:   Managing Member
+Phone:   (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+/s/Philippe Laffont              New York, NY                November 14, 2011
+-----------------------     --------------------------    ----------------------
+     [Signature]                 [City, State]                   [Date]
+
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+<PAGE>
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         1
+
+Form 13F Information Table Entry Total:    35
+
+Form 13F Information Table Value Total:    $3,344,583
+                                           (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.        Form 13F File Number      Name
+----       -------------------       ------------------------------
+
+1.         028-12788                 Coatue Offshore Master Fund, Ltd.
+
+
+
+<PAGE>
+
+
+<TABLE>
+
+                                             FORM 13F INFORMATION TABLE
+                                               COATUE MANAGEMENT, LLC
+                                                 September 30, 2011
+
+
+<CAPTION>
+
+
+COLUMN 1                      COLUMN  2       COLUMN 3    COLUMN 4        COLUMN 5       COLUMN 6    COLUMN 7       COLUMN 8
+
+                              TITLE                       VALUE      SHRS OR   SH/ PUT/  INVESTMENT  OTHER        VOTING AUTHORITY
+NAME OF ISSUER                OF CLASS        CUSIP       (X$1000)   PRN AMT   PRN CALL  DISCRETION  MANAGERS  SOLE     SHARED  NONE
+--------------                ---------       ------      ---------  --------  --- ----  ----------- --------- -----    ------- ----
+<S>                           <C>             <C>         <C>        <C>       <C> <C>   <C>         <C>       <C>      <C>     <C>
+AMAZON COM INC                COM             023135106   321,788    1,488,174 SH        DEFINED     1         1,488,174
+AOL INC                       COM             00184X105    21,166    1,763,842 SH        DEFINED     1         1,763,842
+APPLE INC                     COM             037833100   508,369    1,333,182 SH        DEFINED     1         1,333,182
+ATMEL CORP                    COM             049513104    33,803    4,188,695 SH        DEFINED     1         4,188,695
+BAIDU INC                     SPON ADR REP A  056752108   213,340    1,995,507 SH        DEFINED     1         1,995,507
+BLOCK H & R INC               COM             093671105    24,974    1,876,360 SH        DEFINED     1         1,876,360
+CHECK POINT SOFTWARE TECH LT  ORD             M22465104   273,393    5,181,816 SH        DEFINED     1         5,181,816
+CHIPOTLE MEXICAN GRILL INC    COM             169656105   138,098      455,843 SH        DEFINED     1           455,843
+CITRIX SYS INC                COM             177376100    63,823    1,170,420 SH        DEFINED     1         1,170,420
+CREE INC                      COM             225447101    11,108      427,555 SH        DEFINED     1           427,555
+DIGITAL RIV INC               COM             25388B104    11,957      576,792 SH        DEFINED     1           576,792
+ENTROPIC COMMUNICATIONS INC   COM             29384R105     5,446    1,318,746 SH        DEFINED     1         1,318,746
+F5 NETWORKS INC               COM             315616102    43,473      611,862 SH        DEFINED     1           611,862
+FIRST SOLAR INC               COM             336433107    10,935      172,996 SH        DEFINED     1           172,996
+GOOGLE INC                    CL A            38259P508   234,927      456,133 SH        DEFINED     1           456,133
+GREEN MTN COFFEE ROASTERS IN  COM             393122106   392,735    4,225,683 SH        DEFINED     1         4,225,683
+INTUIT                        COM             461202103   129,895    2,738,093 SH        DEFINED     1         2,738,093
+LEVEL 3 COMMUNICATIONS INC    COM             52729N100    11,379    7,636,834 SH        DEFINED     1         7,636,834
+LINKEDIN CORP                 COM CL A        53578A108    29,897      382,904 SH        DEFINED     1           382,904
+LOGITECH INTL S A             SHS             H50430232    13,079    1,674,642 SH        DEFINED     1         1,674,642
+MOLYCORP INC DEL              COM             608753109    13,039      396,678 SH        DEFINED     1           396,678
+NETFLIX INC                   COM             64110L106       973        8,590 SH        DEFINED     1             8,590
+NOKIA CORP                    SPONSORED ADR   654902204    25,623    4,526,944 SH        DEFINED     1         4,526,944
+NUTRI SYS INC NEW             COM             67069D108     8,821      728,383 SH        DEFINED     1           728,383
+POWERSHARES QQQ TRUST         UNIT SER 1      73935A104   141,723    2,700,000 SH        DEFINED     1         2,700,000
+PRICELINE COM INC             COM NEW         741503403   100,652      223,939 SH        DEFINED     1           223,939
+QUALCOMM INC                  COM             747525103   194,131    3,992,006 SH        DEFINED     1         3,992,006
+QUINSTREET INC                COM             74874Q100     7,521      726,631 SH        DEFINED     1           726,631
+RESEARCH IN MOTION LTD        COM             760975102    31,952    1,573,973 SH        DEFINED     1         1,573,973
+RPX CORP                      COM             74972G103    22,091    1,066,700 SH        DEFINED     1         1,066,700
+SILICON LABORATORIES INC      COM             826919102    72,439    2,159,774 SH        DEFINED     1         2,159,774
+SINA CORP                     ORD             G81477104    45,720      638,465 SH        DEFINED     1           638,465
+STEC INC                      COM             784774101    20,089    1,979,181 SH        DEFINED     1         1,979,181
+ULTA SALON COSMETCS & FRAG I  COM             90384S303    28,089      451,374 SH        DEFINED     1           451,374
+UNIVERSAL DISPLAY CORP        COM             91347P105   138,137    2,881,463 SH        DEFINED     1         2,881,463
+
+</TABLE>
+
+
+
+SK 02984 0008 1237306
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

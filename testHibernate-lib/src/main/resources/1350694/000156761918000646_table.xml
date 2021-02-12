@@ -1,0 +1,18 @@
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>SENSATA TECHNOLOGIES HLDNG P</nameOfIssuer>
+			<titleOfClass>SHS</titleOfClass>
+			<cusip>G8060N102</cusip>
+			<value>801</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>15455</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>N/A</otherManager>
+			<votingAuthority>
+				<Sole>15455</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>

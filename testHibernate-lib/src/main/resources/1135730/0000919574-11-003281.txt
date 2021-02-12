@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0000919574-11-003281.txt : 20110516
+<SEC-HEADER>0000919574-11-003281.hdr.sgml : 20110516
+<ACCEPTANCE-DATETIME>20110516102333
+ACCESSION NUMBER:		0000919574-11-003281
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110331
+FILED AS OF DATE:		20110516
+DATE AS OF CHANGE:		20110516
+EFFECTIVENESS DATE:		20110516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		11844015
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1191182_13f-hr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F Cover Page
+
+
+Report for the Calendar Year or Quarter Ended:     March 31, 2011
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+
+Institutional Manager Filing this Report:
+
+Name:     Coatue Management, LLC
+Address:  9 West 57th Street
+          New York, New York 10019
+
+
+13F File Number: 028-06391
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Philippe Laffont
+Title:   Managing Member
+Phone:   (212) 715-5100
+
+
+Signature, Place and Date of Signing:
+
+
+/s/Philippe Laffont              New York, NY                 May 16, 2011
+-----------------------     --------------------------    ----------------------
+     [Signature]                 [City, State]                   [Date]
+
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]   13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+      are reported in this report).
+
+[_]   13F NOTICE. (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting managers(s).)
+
+[_]   13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+      reporting manager are reported in this report and a portion are reported
+      by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager: NONE
+
+
+<PAGE>
+
+
+Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:         1
+
+Form 13F Information Table Entry Total:    24
+
+Form 13F Information Table Value Total:    $3,853,001
+                                           (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+No.        Form 13F File Number      Name
+----       -------------------       ------------------------------
+
+1.         028-12788                 Coatue Offshore Master Fund, Ltd.
+
+
+<PAGE>
+<TABLE>
+
+                                                     FORM 13F INFORMATION TABLE
+                                                       COATUE MANAGEMENT, LLC
+                                                           March 31, 2011
+<CAPTION>
+
+COLUMN 1                      COLUMN  2       COLUMN 3   COLUMN 4        COLUMN 5        COLUMN 6    COL 7         COLUMN 8
+
+                              TITLE OF                   VALUE      SHRS OR    SH/ PUT/  INVESTMENT  OTHR      VOTING AUTHORITY
+NAME OF ISSUER                CLASS           CUSIP      (X$1000)   PRN AMT    PRN CALL  DISCRETION  MGRS  SOLE        SHARED   NONE
+
+<S>                           <C>             <C>        <C>        <C>        <C> <C>   <C>          <C>  <C>           <C>     <C>
+ACME PACKET INC               COM             004764106   47,591       670,679 SH        DEFINED      1       670,679    0       0
+AKAMAI TECHNOLOGIES INC       COM             00971T101   49,548     1,303,900 SH        DEFINED      1     1,303,900    0       0
+AMAZON COM INC                COM             023135106  216,039     1,199,351 SH        DEFINED      1     1,199,351    0       0
+AMERICAN SUPERCONDUCTOR CORP  COM             030111108      531        21,341 SH        DEFINED      1        21,341    0       0
+AMERICAN TOWER CORP           CL A            029912201  101,533     1,959,349 SH        DEFINED      1     1,959,349    0       0
+APPLE INC                     COM             037833100  471,770     1,353,688 SH        DEFINED      1     1,353,688    0       0
+BAIDU INC                     SPON ADR REP A  056752108  287,147     2,083,643 SH        DEFINED      1     2,083,643    0       0
+CHECK POINT SOFTWARE TECH LT  ORD             M22465104  202,688     3,970,385 SH        DEFINED      1     3,970,385    0       0
+CITRIX SYS INC                COM             177376100   89,987     1,224,978 SH        DEFINED      1     1,224,978    0       0
+CNINSURE INC                  SPONSORED ADR   18976M103      819        63,159 SH        DEFINED      1        63,159    0       0
+CROWN CASTLE INTL CORP        COM             228227104  174,218     4,094,431 SH        DEFINED      1     4,094,431    0       0
+F5 NETWORKS INC               COM             315616102  102,570     1,000,000 SH        DEFINED      1     1,000,000    0       0
+GOOGLE INC                    CL A            38259P508  342,187       583,180 SH        DEFINED      1       583,180    0       0
+GREEN MTN COFFEE ROASTERS IN  COM             393122106  280,194     4,336,700 SH        DEFINED      1     4,336,700    0       0
+INTERNATIONAL RECTIFIER CORP  COM             460254105    4,530       137,009 SH        DEFINED      1       137,009    0       0
+NETAPP INC                    COM             64110D104  153,675     3,191,756 SH        DEFINED      1     3,191,756    0       0
+NETFLIX INC                   COM             64110L106  227,232       955,639 SH        DEFINED      1       955,639    0       0
+NUTRI SYS INC NEW             COM             67069D108    2,391       165,000 SH        DEFINED      1       165,000    0       0
+PRICELINE COM INC             COM NEW         741503403  162,035       319,950 SH        DEFINED      1       319,950    0       0
+QUALCOMM INC                  COM             747525103  348,834     6,362,109 SH        DEFINED      1     6,362,109    0       0
+SBA COMMUNICATIONS CORP       COM             78388J106   67,358     1,697,523 SH        DEFINED      1     1,697,523    0       0
+SINA CORP                     ORD             G81477104  311,261     2,907,894 SH        DEFINED      1     2,907,894    0       0
+VEECO INSTRS INC DEL          COM             922417100   17,693       348,017 SH        DEFINED      1       348,017    0       0
+YAHOO INC                     COM             984332106  191,169    11,460,966 SH        DEFINED      1    11,460,966    0       0
+</TABLE>
+
+
+
+
+
+
+
+
+SK 02984 0008 1191182
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

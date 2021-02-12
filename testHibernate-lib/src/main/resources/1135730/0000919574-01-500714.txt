@@ -1,0 +1,448 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AfLcXBQ8Pjarv45Bm4iJUMIV7jnqYPtk4SYWjxAdel/nQeOInJBMmjno9bEAInT4
+ I83t45IfDxdN0Bx6ySEH3A==
+
+<SEC-DOCUMENT>0000919574-01-500714.txt : 20021127
+<SEC-HEADER>0000919574-01-500714.hdr.sgml : 20021127
+<ACCEPTANCE-DATETIME>20010813174600
+ACCESSION NUMBER:		0000919574-01-500714
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010630
+FILED AS OF DATE:		20010814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COATUE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001135730
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06391
+		FILM NUMBER:		01707751
+
+	BUSINESS ADDRESS:	
+		STREET 1:		126 EAST 56TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>co02984001aa2.txt
+<TEXT>
+
+
+
+<PAGE>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+                            Form 13F
+
+                       Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  June 30, 2001
+
+Check here if Amendment [   ]; Amendment Number:
+    This Amendment (Check only one.):  [   ] is a restatement.
+                                       [   ] adds new holdings
+                                             entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Coatue Management, LLC
+Address: 126 East 56th Street
+         New York, New York 10022
+
+Form 13F File Number: 28-06391
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct and complete, and
+that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Phillipe P. Laffont
+Title:   Investment Manager
+Phone:   (212) 715-5100
+
+Signature, Place, and Date of Signing:
+
+         /s/Phillipe Laffont     New York, N.Y.        8/1/01
+         _______________________ _____________________ _________
+              [Signature]           [City, State]        [Date]
+
+
+
+<PAGE>
+
+Report Type (Check only one.):
+
+[X ]     13F HOLDINGS REPORT.  (Check here if all holdings of
+         this reporting manager are reported in this report.)
+
+[  ]     13F NOTICE.  (Check here if no holdings reported are in
+         this report, and all holdings are reported by other
+         reporting manager(s).)
+
+[  ]     13F COMBINATION REPORT.  (Check here if a portion of the
+         holdings for this reporting manager are reported in this
+         report and a portion are reported by other reporting
+         manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+         Form 13F File Number     Name
+
+         28-
+         [Repeat as necessary.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                2
+
+
+
+<PAGE>
+
+                      Form 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:          None
+
+Form 13F Information Table Entry Total:     78
+
+Form 13F Information Table Value Total:     $150,422
+                                            [in thousands]
+
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file
+number(s) of all institutional investment managers with respect
+to which this report is filed, other than the manager filing this
+report.
+
+[If there are no entries in this list, state "NONE" and omit the
+column headings and list entries.]
+
+         No.       Form 13F File Number     Name
+
+                   28-
+
+         [Repeat as necessary.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                3
+
+
+
+<PAGE>
+
+<TABLE>
+                                                   Form 13F INFORMATION TABLE
+                                                          June 29, 2001
+<CAPTION>
+   COLUMN 1        COLUMN 2      COLUMN 3      COLUMN 4       COLUMN 5         COLUMN 6    COLUMN 7      COLUMN 8
+   ---------       --------      --------      --------       --------         ---------   --------      --------
+
+                    TITLE        CUSIP         MARKET    SHRS OR  SH/  PUT/  INVESTMENTS   OTHER      VOTING AUTHORITY
+NAME OF ISSUER     OF CLASS      NUMBER        VALUE     PRN AMT  PRN  CALL  DISCRETION    MANAGERS  SOLE  SHARED  NONE
+- --------------     --------      ------        ------    -------  ---  ----  -----------   --------  ----  ------  ----
+
+<s>                <c>           <c>        <c>          <c>       <c>  <c>   <c>          <c>       <c>      <c>    <c>
+360NETWORKS        Subordinated
+                   Shares        88575T205       97986   466600    SH         Sole         None      Sole
+ACCELR8 TECHNOLOGY
+  CORP (NEW)       Common        004304200       15620    11000    SH         Sole         None      Sole
+ADVA AG  NPV       Ordinary      5653487         74128    16625    SH         Sole         None      Sole
+AGERE SYS INC      Class A       00845V100     8549760  1171200    SH         Sole         None      Sole
+AKAMAI TECHNOLOGIES
+  INC              Common        00971T101      846853    92300    SH         Sole         None      Sole
+APPLIED MICRO
+  CIRCUITS CORP    Common        03822W109     1733485   100784    SH         Sole         None      Sole
+AT&T CORP          Common        001957109    10164000   462000    SH         Sole         None      Sole
+AVANEX CORP        Common        05348W109     1649000   170000    SH         Sole         None      Sole
+BIDCOM INTERNATIONAL
+  INC              Common        088788104        3600    10000    SH         Sole         None      Sole
+BOOKS A MILLION
+  INC              Common        098570104       30250    11000    SH         Sole         None      Sole
+BUSINESS OBJECTS,
+  S.A.             ADR           12328X107     1475000    62500    SH         Sole         None      Sole
+CALL/ARBA(IRUGU)
+  @ 7.5
+   EXP07/21/2001   Call Option   04033V9GU      100000    10000    SH         Sole         None      Sole
+CALL/EXDS(EXFGA)
+  @ 5
+   EXP07/21/2001   Call Option   3020889GA       37500     5000    SH         Sole         None      Sole
+CALL/LVLT(HGYGD)
+   @ 20
+   EXP07/21/2001   Call Option   52729N9GD       43750     3500    SH         Sole         None      Sole
+CALL/RFMD(RFZHF)
+  @ 30
+  EXP08/18/2001    Call Option   7499419HF      405600     1560    SH         Sole         None      Sole
+CENTILLIUM
+  COMMUNICATIONS
+  INC              Common        152319109     1442342    58300    SH         Sole         None      Sole
+CENTRINITY INC     Common        15640B109       98339    37210    SH         Sole         None      Sole
+CHARTER
+  COMMUNICATIONS,
+  INC              Class A       16117M107     6113030   261800    SH         Sole         None      Sole
+
+
+
+
+                                4
+
+
+
+<PAGE>
+
+CLEAR CHANNEL
+  COMMUNICATIONS   Common        184502102     6514530   103900    SH         Sole         None      Sole
+COREL CORP         Common        21868Q109      745142   267076    SH         Sole         None      Sole
+COSINE
+  COMMUNICATIONS
+  INC              Common        221222102       56000    25000    SH         Sole         None      Sole
+C-PHONE CORP       Common        12616P105         660    22000    SH         Sole         None      Sole
+DSL.NET INC        Common        262506108      147600   180000    SH         Sole         None      Sole
+E.SPIRE
+  COMMUNICATIONS
+  INC              Common        269153102       11960   115000    SH         Sole         None      Sole
+EMC CORPORATION
+  MASS             Common        268648102     6338475   216700    SH         Sole         None      Sole
+ENTERCOM COMMS.
+  CORP             Class A       293639100     2294508    42800    SH         Sole         None      Sole
+EXAR CORPORATION   Common        300645108     1590680    80500    SH         Sole         None      Sole
+FINISAR
+  CORPORATION      Common        31787A101     1760590    94250    SH         Sole         None      Sole
+FOCAL
+  COMMUNICATIONS
+  CORP             Common        344155106      305148   129300    SH         Sole         None      Sole
+FRANCE TELECOM
+  S.A.             Ordinary      5176177       2008255    42000    SH         Sole         None      Sole
+FREEMARKETS, INC.  Common        356602102     3192000   159600    SH         Sole         None      Sole
+GENERAL MOTORS
+  CORPORATION      Class H       370442832     5404826   259100    SH         Sole         None      Sole
+GLOBAL CROSSING
+  LTD              Common        G3921A100     1592352   184300    SH         Sole         None      Sole
+GLOBALSTAR TELE-
+  OMMUNICATION     Common        G3930H104       68760   208364    SH         Sole         None      Sole
+HANDSPRING INC     Common        410293104      677600    88000    SH         Sole         None      Sole
+HIGHWAVE OPTICAL
+  TECHNOLOGIES     Common        5986882         33525     4300    SH         Sole         None      Sole
+INFOSPACE INC      Common        45678T102      542208   141200    SH         Sole         None      Sole
+INTERACTIVE DATA
+  CORPORATION      Common        45840J107       63000     7000    SH         Sole         None      Sole
+INTERNET AMERICA
+  INC              Common        46058Y109       15000    25000    SH         Sole         None      Sole
+JB OXFORD HOLDINGS
+  INC              Common        466107109       22620    13000    SH         Sole         None      Sole
+JUNO ONLINE
+  SERVICES INC     Common        482048105      281590   194200    SH         Sole         None      Sole
+LAMAR ADVERTISING
+  CO               Class A       512815101     4228400    96100    SH         Sole         None      Sole
+LEAP WIRELESS
+  INTL INC         Common        521863100     4590450   151500    SH         Sole         None      Sole
+LEVEL 3
+  COMMUNICATIONS
+  INC              Common        52729N100      603900   110000    SH         Sole         None      Sole
+
+
+
+
+                                5
+
+
+
+<PAGE>
+
+LINEAR TECHNOLOGY
+  CORP             Common        535678106     3550866    80300    SH         Sole         None      Sole
+MCDATA CORP        Class B       580031102      218400    10000    SH         Sole         None      Sole
+MICRON TECHNOLOGY
+  INC              Common        595112103     4549770   110700    SH         Sole         None      Sole
+NEON COMMUNICATIONS
+  INC              Common        640506101      318045    45500    SH         Sole         None      Sole
+NETWORK ACCESS
+  SOLUTIONS        Common        64120S109       55056   177600    SH         Sole         None      Sole
+NETWORK PLUS CORP  Common        64122D506      878582   324200    SH         Sole         None      Sole
+NETZERO INC.       Common        64122R109      221676   263900    SH         Sole         None      Sole
+NOKIA CORP
+  SPON ADR         ADR           654902204     4781945   215500    SH         Sole         None      Sole
+NOVELLUS SYSTEMS
+  INC              Common        670008101     4974804    87600    SH         Sole         None      Sole
+OPLINK
+  COMMUNICATIONS
+  INC              Common        68375Q106      427500   114000    SH         Sole         None      Sole
+ORACLE
+  CORPORATION      Common        68389X105    10051000   529000    SH         Sole         None      Sole
+OTTO SEAT-PAGINE
+  GIALLE SPA       Ordinary      5843642       1919333  1860000    SH         Sole         None      Sole
+PEAPOD INC         Common        704718105       14000    14000    SH         Sole         None      Sole
+PEGASUS
+  COMMUNICATIONS
+  CORP             Class A       705904100      225000    10000    SH         Sole         None      Sole
+PEREGRINE SYSTEMS
+  INC              Common        71366Q101    10570500   364500    SH         Sole         None      Sole
+PERLE SYSTEMS LTD  Common        714152105        8800    10000    SH         Sole         None      Sole
+PMC-SIERRA INC     Common        69344F106     3183122   102450    SH         Sole         None      Sole
+PUT/PRGN(GQPSD)
+  @ 20
+  EXP07/21/2001    Put Option    71366Q9SD       25200     1440    SH         Sole         None      Sole
+RCN CORP           Common        749361101     3780963   688700    SH         Sole         None      Sole
+RIVERSTONE
+NETWORKS INC       Common        769320102     1103895    55500    SH         Sole         None      Sole
+ROGERS
+  COMMUNICATIONS
+  INC              Class B       775109200     5837295   385300    SH         Sole         None      Sole
+SONUS NETWORKS
+  INC              Common        835916107      233600    10000    SH         Sole         None      Sole
+STORAGENETWORKS
+  INC              Common        86211E103      866490    51000    SH         Sole         None      Sole
+TELIGENT, INC.     Class A       87959Y103       26809   141100    SH         Sole         None      Sole
+TERADYNE INC       Common        880770102      455000    13000    SH         Sole         None      Sole
+TRANSMETA CORP
+  DEL              Common        89376R109       55800    10000    SH         Sole         None      Sole
+VIACOM INC         Class B       925524308     5552775   107300    SH         Sole         None      Sole
+VIATEL INC         Common        925529208       18495   205500    SH         Sole         None      Sole
+
+
+
+
+                                6
+
+
+
+<PAGE>
+
+VODAFONE GROUP
+  PLC              ADR           92857W100     3028425   135500    SH         Sole         None      Sole
+WESTERN WIRELESS
+  CORP.            Class A       95988E204     4257000    99000    SH         Sole         None      Sole
+WESTWOOD ONE INC   Common        961815107     2959055    80300    SH         Sole         None      Sole
+WINSTAR
+  COMMUNICATIONS
+  INC              Common        975515107       36131   645200    SH         Sole         None      Sole
+WORLD ACCESS
+  INC (NEW)        Common        98141A101        9996   178500    SH         Sole         None      Sole
+XO COMMUN, INC.    Class A       983764101      257280   134000    SH         Sole         None      Sole
+                                             150422630
+</TABLE>
+
+
+
+
+
+
+
+02984001.AA2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                7
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

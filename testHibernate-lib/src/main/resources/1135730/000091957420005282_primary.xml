@@ -1,0 +1,190 @@
+<xml> <!--?xml version="1.0" encoding="UTF-8"?--> 
+ <edgarsubmission xsi:schemalocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+  <headerdata> 
+   <submissiontype>
+    13F-HR
+   </submissiontype> 
+   <filerinfo> 
+    <livetestflag>
+     LIVE
+    </livetestflag> 
+    <flags> 
+     <confirmingcopyflag>
+      false
+     </confirmingcopyflag> 
+     <returncopyflag>
+      true
+     </returncopyflag> 
+     <overrideinternetflag>
+      false
+     </overrideinternetflag> 
+    </flags> 
+    <filer> 
+     <credentials> 
+      <cik>
+       0001135730
+      </cik> 
+      <ccc>
+       XXXXXXXX
+      </ccc> 
+     </credentials> 
+    </filer> 
+    <periodofreport>
+     06-30-2020
+    </periodofreport> 
+   </filerinfo> 
+  </headerdata> 
+  <formdata> 
+   <coverpage> 
+    <reportcalendarorquarter>
+     06-30-2020
+    </reportcalendarorquarter> 
+    <isamendment>
+     false
+    </isamendment> 
+    <filingmanager> 
+     <name>
+      COATUE MANAGEMENT LLC
+     </name> 
+     <address> <ns1:street1>
+       9 West 57th Street
+      </ns1:street1> <ns1:street2>
+       25th Floor
+      </ns1:street2> <ns1:city>
+       New York
+      </ns1:city> <ns1:stateorcountry>
+       NY
+      </ns1:stateorcountry> <ns1:zipcode>
+       10019
+      </ns1:zipcode> </address> 
+    </filingmanager> 
+    <reporttype>
+     13F HOLDINGS REPORT
+    </reporttype> 
+    <form13ffilenumber>
+     028-06391
+    </form13ffilenumber> 
+    <provideinfoforinstruction5>
+     N
+    </provideinfoforinstruction5> 
+   </coverpage> 
+   <signatureblock> 
+    <name>
+     Philippe Laffont
+    </name> 
+    <title>Authorized Signatory</title> 
+    <phone>
+     212-715-5100
+    </phone> 
+    <signature>
+     /s/ Philippe Laffont
+    </signature> 
+    <city>
+     NEW YORK
+    </city> 
+    <stateorcountry>
+     NY
+    </stateorcountry> 
+    <signaturedate>
+     08-14-2020
+    </signaturedate> 
+   </signatureblock> 
+   <summarypage> 
+    <otherincludedmanagerscount>
+     5
+    </otherincludedmanagerscount> 
+    <tableentrytotal>
+     134
+    </tableentrytotal> 
+    <tablevaluetotal>
+     11365076
+    </tablevaluetotal> 
+    <isconfidentialomitted>
+     true
+    </isconfidentialomitted> 
+    <othermanagers2info> 
+     <othermanager2> 
+      <sequencenumber>
+       1
+      </sequencenumber> 
+      <othermanager> 
+       <cik>
+        0001664809
+       </cik> 
+       <form13ffilenumber>
+        028-17315
+       </form13ffilenumber> 
+       <name>
+        COATUE OFFSHORE MASTER FUND LP
+       </name> 
+      </othermanager> 
+     </othermanager2> 
+     <othermanager2> 
+      <sequencenumber>
+       2
+      </sequencenumber> 
+      <othermanager> 
+       <cik>
+        0001633822
+       </cik> 
+       <form13ffilenumber>
+        028-16615
+       </form13ffilenumber> 
+       <name>
+        Coatue Long Only Offshore Master Fund Ltd
+       </name> 
+      </othermanager> 
+     </othermanager2> 
+     <othermanager2> 
+      <sequencenumber>
+       3
+      </sequencenumber> 
+      <othermanager> 
+       <cik>
+        0001755729
+       </cik> 
+       <form13ffilenumber>
+        028-19270
+       </form13ffilenumber> 
+       <name>
+        COATUE PRIVATE FUND I LP
+       </name> 
+      </othermanager> 
+     </othermanager2> 
+     <othermanager2> 
+      <sequencenumber>
+       4
+      </sequencenumber> 
+      <othermanager> 
+       <cik>
+        0001622934
+       </cik> 
+       <form13ffilenumber>
+        028-19271
+       </form13ffilenumber> 
+       <name>
+        COATUE PRIVATE FUND II LP
+       </name> 
+      </othermanager> 
+     </othermanager2> 
+     <othermanager2> 
+      <sequencenumber>
+       5
+      </sequencenumber> 
+      <othermanager> 
+       <cik>
+        0001802767
+       </cik> 
+       <form13ffilenumber>
+        028-20004
+       </form13ffilenumber> 
+       <name>
+        Coatue Quant Master Fund LP
+       </name> 
+      </othermanager> 
+     </othermanager2> 
+    </othermanagers2info> 
+   </summarypage> 
+  </formdata> 
+ </edgarsubmission> 
+</xml>
