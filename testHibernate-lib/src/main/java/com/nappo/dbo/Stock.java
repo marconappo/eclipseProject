@@ -1,4 +1,5 @@
-package com.nappo;
+package com.nappo.dbo;
+import java.io.Serializable;
 import java.util.Date;
 
 import javax.persistence.*;
@@ -9,13 +10,17 @@ import javax.persistence.*;
  */
  
 @Entity
+@IdClass(StockID.class)
 @Table(name = "stock")
-public class Stock {
+public class Stock implements Serializable{
     private long id;
     private String nameOfIssuer;
+    @Id
     private String cusip;
     private float value;
+    @Id
     private Date periodOfReport;
+    @Id
     private String cikNumber;
     
     

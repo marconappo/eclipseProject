@@ -1,4 +1,4 @@
-package com.nappo;
+package com.nappo.dbo;
 import java.util.Date;
 
 import javax.persistence.*;

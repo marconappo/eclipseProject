@@ -10,6 +10,7 @@ import java.math.RoundingMode;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.Charset;
+import java.sql.SQLIntegrityConstraintViolationException;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -23,11 +24,17 @@ import java.util.Scanner;
 import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
+import org.hibernate.NonUniqueObjectException;
+import org.hibernate.exception.ConstraintViolationException;
 import org.jsoup.Connection.Method;
 import org.jsoup.Connection.Response;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+
+import com.nappo.dbo.HedgeFund;
+import com.nappo.dbo.Stock;
+import com.nappo.dbo.Symbol;
 
 import yahoofinance.YahooFinance;
 import yahoofinance.histquotes.HistoricalQuote;
@@ -43,19 +50,38 @@ public class Test {
 	private static DBManager dbManager = new DBManager();
 	// static String CIK_NUMBER = "1697748"; // ARK INVEST
 	// static String CIK_NUMBER = "1350694"; // RAY DALIO
-	// static String CIK_NUMBER = "1067983"; // WARREN BUFFET
+	static String CIK_NUMBER = "1067983"; // WARREN BUFFET
 	// static String CIK_NUMBER = "1135730"; // Philippe Laffont Coatue Management,
-	// LLC
-	static String CIK_NUMBER = "1541617"; // GERSTNER BRAD Altimeter
-	private static String PC_FOLDER = "C:\\Users\\Marco'PC\\eclipse-workspace2\\testHibernate\\lib\\src\\main\\resources\\"
+	// static String CIK_NUMBER = "1541617"; // GERSTNER BRAD Altimeter
+	private static String PC_FOLDER = "C:\\Users\\Marco'PC\\git\\eclipseProject\\testHibernate-lib\\src\\main\\resources\\"
 			+ CIK_NUMBER + "\\";
 
 	public static void main(String[] args) throws IOException, ParseException {
 		dbManager.setup();
 		// downloadFilesAndPopulateHedgeFunds();
 		// populateSymbols();
-		populateStocks();
+		//populateStocks();
+		List<Symbol> symbolList = dbManager.getAllSymbols();
+		for (Symbol symbol: symbolList.subList(0, 3)) {
+			getStockYearsByWeek(symbol.getTicker(), 1);
+		}
 		dbManager.exit();
+	}
+
+	static void getStockYearsByWeek(String ticker, int year) throws IOException {
+		// https://financequotes-api.com/
+		Calendar from = Calendar.getInstance();
+		Calendar to = Calendar.getInstance();
+		from.add(Calendar.YEAR, -year); // from year years ago
+		yahoofinance.Stock stock = YahooFinance.get(ticker, from, to, Interval.WEEKLY);
+		List<HistoricalQuote> historicalQuoteList = stock.getHistory();
+		for (HistoricalQuote historicalQuote: historicalQuoteList) {
+			Date date = historicalQuote.getDate().getTime();
+			DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+			System.out.println("ticker: "+ticker+" price:"+ historicalQuote.getClose() + "-" + dateFormat.format(date));
+		}
+		
+
 	}
 
 	static BigDecimal getStockQuote(String ticker, int year, int month, int day, int counter) {
@@ -114,15 +140,15 @@ public class Test {
 		}
 	}
 
-	static void populateStocks() throws NumberFormatException, ParseException {
+	static void populateStocks() throws ParseException {
 		List<String> folderNameList = dbManager.getFolders(CIK_NUMBER);
-		for (String folderName : folderNameList) {
+		for (String folderName : folderNameList.subList(0, 100)) {
 			System.out.println("----------------------" + folderName + "----------------------");
 			try {
 				File input = new File(PC_FOLDER + folderName + "_primary.xml");
 				String date = getDateFromXML(input);
 				if (date.isEmpty())
-					break;
+					continue;
 				String[] tagList = { "nameOfIssuer", "cusip", "value" };
 				Document doc;
 				input = new File(PC_FOLDER + folderName + "_table.xml");
@@ -133,15 +159,12 @@ public class Test {
 				for (int i = 0; i < cusipList.size(); i++) {
 					String cusip = cusipList.get(i).text();
 					Date periodOfReport = new SimpleDateFormat("MM-dd-yyyy").parse(date);
-					if (!dbManager.existStock(cusip, periodOfReport, CIK_NUMBER)) {
-						String name = nameList.get(i).text();
-						String value = valueList.get(i).text();
-						Stock stock = new Stock(name, cusip, Float.parseFloat(value), periodOfReport, CIK_NUMBER);
-						dbManager.createStock(stock);
-					}
+					String name = nameList.get(i).text();
+					String value = valueList.get(i).text();
+					Stock stock = new Stock(name, cusip, Float.parseFloat(value), periodOfReport, CIK_NUMBER);
+					dbManager.createStock(stock);
 				}
 			} catch (IOException e) {
-
 			}
 		}
 	}
@@ -181,7 +204,6 @@ public class Test {
 
 	static void downloadFilesAndPopulateHedgeFunds() throws IOException, ParseException {
 		List<String> folderNameList = getFolderNameList(CIK_NUMBER, PC_FOLDER);
-		List<HedgeFund> hedgeFundList = new ArrayList<HedgeFund>();
 		for (String folderName : folderNameList) {
 			String fileURL = URL_PREFIX + CIK_NUMBER + "/" + getTxtFileNameFromFolderName(folderName);
 			String fileName = PC_FOLDER + File.separator + getTxtFileNameFromFolderName(folderName);
@@ -193,11 +215,10 @@ public class Test {
 					File xmlPrimary = new File(PC_FOLDER + folderName + "_primary.xml");
 					File xmlTable = new File(PC_FOLDER + folderName + "_table.xml");
 					convertTxtInXml(txtFile, xmlPrimary, xmlTable);
-					hedgeFundList.add(new HedgeFund(CIK_NUMBER, folderName));
+					dbManager.createHedgeFund(new HedgeFund(CIK_NUMBER, folderName));
 				}
 			}
 		}
-		dbManager.createHedgeFundList(hedgeFundList);
 		/*
 		 * String fileName = PC_FOLDER + File.separator + folderName + "_table.xml";
 		 * String fileURL = URL_PREFIX + CIK_NUMBER + "/" + folderName +
@@ -247,29 +268,27 @@ public class Test {
 
 	static void populateSymbols() throws ParseException {
 		List<String> folderNameList = dbManager.getFolders(CIK_NUMBER);
-		Set<Symbol> symbolList = new HashSet<Symbol>();
 		for (String folderName : folderNameList) {
 			System.out.println("----------------------" + folderName + "----");
-			String[] tagList = { "nameOfIssuer", "cusip" };
 			Document doc;
 			File input = new File(PC_FOLDER + folderName + "_table.xml");
 			try {
 				doc = Jsoup.parse(input, "UTF-8");
-				List<Element> nameList = doc.getElementsByTag(tagList[0]);
-				List<Element> cusipList = doc.getElementsByTag(tagList[1]);
+				List<Element> nameList = doc.getElementsByTag("nameOfIssuer");
+				List<Element> cusipList = doc.getElementsByTag("cusip");
 				for (int i = 0; i < nameList.size(); i++) {
 					String cusip = cusipList.get(i).text();
 					if (!dbManager.existSymbol(cusip)) {
 						String ticker = getSymbolFromCusip(cusip);
-						Symbol symbol = new Symbol(ticker, cusip, nameList.get(i).text());
-						symbolList.add(symbol);
+						String name = nameList.get(i).text();
+						Symbol symbol = new Symbol(ticker, cusip, name);
+						dbManager.createSymbol(symbol);
 					}
 				}
 			} catch (IOException e) {
 				// e.printStackTrace();
 			}
 		}
-		dbManager.createSymbolList(symbolList);
 	}
 
 	static String getSymbolFromCusip(String cusip) throws IOException {
@@ -292,7 +311,7 @@ public class Test {
 		Document doc;
 		String returnString = "";
 		doc = Jsoup.parse(input, "UTF-8");
-		if (doc.getElementsByTag("periodOfReport").size()>0)
+		if (doc.getElementsByTag("periodOfReport").size() > 0)
 			returnString = doc.getElementsByTag("periodOfReport").get(0).text();
 		return returnString;
 	}

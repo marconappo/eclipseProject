@@ -12,9 +12,9 @@
     <property name="show_sql">false</property>
     <property name="hibernate.hbm2ddl.auto">update</property>
         
-    <mapping class="com.nappo.Stock" />
-    <mapping class="com.nappo.Symbol" />
-    <mapping class="com.nappo.HedgeFund"/>
+    <mapping class="com.nappo.dbo.Stock" />
+    <mapping class="com.nappo.dbo.Symbol" />
+    <mapping class="com.nappo.dbo.HedgeFund"/>
      
   </session-factory>
 </hibernate-configuration>

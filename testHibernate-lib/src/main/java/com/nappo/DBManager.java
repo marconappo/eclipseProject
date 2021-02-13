@@ -1,17 +1,23 @@
 package com.nappo;
 
+import java.sql.SQLIntegrityConstraintViolationException;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import java.util.Set;
 
+import org.hibernate.NonUniqueObjectException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
+import org.hibernate.exception.ConstraintViolationException;
 import org.hibernate.query.Query;
+
+import com.nappo.dbo.HedgeFund;
+import com.nappo.dbo.Stock;
+import com.nappo.dbo.Symbol;
 
 public class DBManager {
 	protected SessionFactory sessionFactory;
@@ -19,13 +25,12 @@ public class DBManager {
 
 	protected void setup() {
 		final StandardServiceRegistry registry = new StandardServiceRegistryBuilder().configure() // configures settings
-																									// from
-																									// hibernate.cfg.xml
 				.build();
 		try {
 			sessionFactory = new MetadataSources(registry).buildMetadata().buildSessionFactory();
 			session = sessionFactory.openSession();
 		} catch (Exception ex) {
+			ex.printStackTrace();
 			StandardServiceRegistryBuilder.destroy(registry);
 		}
 	}
@@ -38,22 +43,22 @@ public class DBManager {
 	protected void createStockList(List<Stock> stockList) {
 		session.beginTransaction();
 		for (Stock stock : stockList) {
-			session.save(stock);
+			session.saveOrUpdate(stock);
 		}
 		session.getTransaction().commit();
 	}
 
-	protected void createStock(Stock stock) {
-		session.beginTransaction();
-		session.save(stock);
-		session.getTransaction().commit();
+	protected void createStock(Stock stock) throws ParseException {
+		if (!existStock(stock.getCusip(), stock.getPeriodOfReport(), stock.getCikNumber())){
+			session.beginTransaction();
+			session.saveOrUpdate(stock);
+			session.getTransaction().commit();
+		}
 	}
 
-	protected void createHedgeFundList(List<HedgeFund> hedgeFundList) {
+	protected void createHedgeFund(HedgeFund hedgeFund) {
 		session.beginTransaction();
-		for (HedgeFund hedgeFund : hedgeFundList) {
-			session.save(hedgeFund);
-		}
+		session.saveOrUpdate(hedgeFund);
 		session.getTransaction().commit();
 	}
 
@@ -79,11 +84,9 @@ public class DBManager {
 
 	}
 
-	protected void createSymbolList(Set<Symbol> symbolList) {
+	protected void createSymbol(Symbol symbol) {
 		session.beginTransaction();
-		for (Symbol symbol : symbolList) {
-			session.saveOrUpdate(symbol);
-		}
+		session.saveOrUpdate(symbol);
 		session.getTransaction().commit();
 	}
 
@@ -91,6 +94,9 @@ public class DBManager {
 		Query query = session.createQuery("FROM Symbol WHERE cusip=:cusip");
 		query.setParameter("cusip", cusip);
 		return (query.list().size() > 0);
+	}
+	protected List<Symbol> getAllSymbols() {
+		  return (List<Symbol>) session.createQuery("from Symbol").list();
 	}
 
 }
